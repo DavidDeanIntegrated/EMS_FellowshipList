@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EMS Fellowship Finder | Top 25 Programs Analysis</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>EMS Fellowship Finder</h1>
+            <p class="subtitle">Comprehensive Top 25 Programs Analysis &mdash; Personalized Rankings</p>
+        </div>
+    </header>
+
+    <section class="profile-section">
+        <div class="container">
+            <h2>Your EMS Identity Profile</h2>
+            <div class="profile-grid">
+                <div class="profile-card">
+                    <div class="profile-icon">&#9881;</div>
+                    <h3>Systems-Builder &amp; Operator</h3>
+                    <p>You're drawn to logistics, QI, implementation, and understanding how the machine works &mdash; not just protocol-signature medical direction.</p>
+                </div>
+                <div class="profile-card">
+                    <div class="profile-icon">&#9829;</div>
+                    <h3>High-Acuity / Critical Care</h3>
+                    <p>You gravitate toward ECC/critical care physiology, transport medicine, and resuscitation culture.</p>
+                </div>
+                <div class="profile-card">
+                    <div class="profile-icon">&#127758;</div>
+                    <h3>Austere &amp; Deployable</h3>
+                    <p>You're drawn to "set up medical practice anywhere" &mdash; global EM, disaster medicine, and frontier environments.</p>
+                </div>
+                <div class="profile-card">
+                    <div class="profile-icon">&#128202;</div>
+                    <h3>Tech &amp; Data-Inclined</h3>
+                    <p>You like measurement, dashboards, structured frameworks, and practical tools that improve systems.</p>
+                </div>
+                <div class="profile-card">
+                    <div class="profile-icon">&#9728;</div>
+                    <h3>Lifestyle: Sun &amp; Outdoors</h3>
+                    <p>You prefer warm climates and outdoor access. Sensitive to extreme cold and high cost-of-living misery during fellowship.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="rubric-section">
+        <div class="container">
+            <h2>Ranking Rubric</h2>
+            <p class="rubric-intro">Each program is scored across 6 dimensions (1&ndash;5 scale). Hover or tap a category for details.</p>
+            <div class="rubric-grid">
+                <div class="rubric-item">
+                    <div class="rubric-label">System Excellence &amp; QI</div>
+                    <div class="rubric-desc">Legendary QA/QI, resuscitation performance, mature medical direction infrastructure, model agency culture.</div>
+                </div>
+                <div class="rubric-item">
+                    <div class="rubric-label">Operational Reps &amp; Field Autonomy</div>
+                    <div class="rubric-desc">Doc-in-the-car shifts, dedicated response vehicles, command shifts, special operations exposure, real field responsibility.</div>
+                </div>
+                <div class="rubric-item">
+                    <div class="rubric-label">Critical Care Transport / Aviation</div>
+                    <div class="rubric-desc">Air-medical networks, robust CCT education, high-acuity transport reps &mdash; a rare and valuable skill stack.</div>
+                </div>
+                <div class="rubric-item">
+                    <div class="rubric-label">Austere / Disaster / Global</div>
+                    <div class="rubric-desc">Wilderness medicine, SAR, disaster planning, global EMS development, frontier and deployable medicine.</div>
+                </div>
+                <div class="rubric-item">
+                    <div class="rubric-label">Lifestyle Fit</div>
+                    <div class="rubric-desc">Climate, outdoor access, day-to-day happiness during the fellowship year. Warm weather and affordability preferred.</div>
+                </div>
+                <div class="rubric-item">
+                    <div class="rubric-label">Economic Survivability</div>
+                    <div class="rubric-desc">Cost of living relative to fellowship salary. Amazing-but-financially-punishing markets get nudged down.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="controls-section">
+        <div class="container">
+            <div class="controls-bar">
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Search programs..." aria-label="Search programs">
+                </div>
+                <div class="filter-group">
+                    <label for="tierFilter">Filter by tier:</label>
+                    <select id="tierFilter">
+                        <option value="all">All Tiers</option>
+                        <option value="top">Top Tier</option>
+                        <option value="mid">Mid Tier</option>
+                        <option value="lower">Lower Tier</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="sortBy">Sort by:</label>
+                    <select id="sortBy">
+                        <option value="overall">Overall Rank</option>
+                        <option value="system_qi">System Excellence & QI</option>
+                        <option value="ops_autonomy">Ops & Field Autonomy</option>
+                        <option value="cct_aviation">CCT / Aviation</option>
+                        <option value="austere_disaster">Austere / Disaster</option>
+                        <option value="lifestyle">Lifestyle Fit</option>
+                        <option value="economic">Economic Survivability</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="programs-section">
+        <div class="container">
+            <h2>Program Rankings</h2>
+            <div id="programList" class="program-list">
+                <!-- Programs are rendered by JS -->
+            </div>
+        </div>
+    </section>
+
+    <section id="comparisonTable" class="comparison-section">
+        <!-- Rendered by JS -->
+    </section>
+
+    <section id="timelineSection" class="timeline-section">
+        <!-- Rendered by JS -->
+    </section>
+
+    <section class="methodology-section">
+        <div class="container">
+            <h2>Methodology &amp; Caveats</h2>
+            <div class="methodology-content">
+                <p><strong>How this list was built:</strong> Programs were scored using publicly available directory information, known agency partnerships, geographic/climate data, and institutional reputation. The ranking is personalized to one specific applicant profile (described above) and is <em>not</em> a universal quality ranking.</p>
+                <p><strong>Where uncertainty is highest:</strong> Many directory-only programs lack detailed public descriptions. Scores for these programs rely on proxies: historically known EMS systems, partner agency presence, air-medical affiliations, and geography. Programs with limited public information are noted.</p>
+                <p><strong>This is a starting point, not a final answer.</strong> Visit programs, talk to current fellows, and weight your own priorities. Your mileage will vary.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>EMS Fellowship Finder &mdash; A personalized ranking tool for EMS fellowship applicants</p>
+            <p class="disclaimer">Not affiliated with NAEMSP, ACGME, or any fellowship program. For informational purposes only.</p>
+        </div>
+    </footer>
+
+    <script src="programs.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
