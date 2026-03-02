@@ -6,10 +6,10 @@
 
   // Tier configuration
   var TIERS = {
-    t1: { class: 't1', pill: 'Tier 1', title: 'Best Fit — Highest Confidence', range: '#1 – #25' },
-    t2: { class: 't2', pill: 'Tier 2', title: 'Strong Fit — Good Confidence', range: '#26 – #49' },
-    t3: { class: 't3', pill: 'Tier 3', title: 'Viable Fit — Worth Exploring', range: '#50 – #69' },
-    t4: { class: 't4', pill: 'Tier 4', title: 'Lower Confidence Matches', range: '#70 – #84' }
+    t1: { class: 't1', pill: 'Tier 1', title: 'Best Fit — Highest Confidence', range: '#1 – #11' },
+    t2: { class: 't2', pill: 'Tier 2', title: 'Strong Fit — Good Confidence', range: '#12 – #22' },
+    t3: { class: 't3', pill: 'Tier 3', title: 'Viable Fit — Worth Exploring', range: '#23 – #33' },
+    t4: { class: 't4', pill: 'Tier 4', title: 'Lower Confidence Matches', range: '#34 – #43' }
   };
 
   var SCORE_LABELS = {
