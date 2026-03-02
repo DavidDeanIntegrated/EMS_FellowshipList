@@ -46,9 +46,9 @@
       .concat(p.tags || [])
       .concat(p.strengths || [])
       .join(' ').toLowerCase();
-    var isTop25 = p.rank <= 25;
+    var hasRichContent = !!(p.overview || p.pd || p.scores || p.strengths || p.weaknesses || p.unique);
 
-    var html = '<div class="program-card' + (isTop25 ? ' top25' : '') + '" data-search="' + escapeHtml(searchData) + '">';
+    var html = '<div class="program-card' + (hasRichContent ? ' top25' : '') + '" data-search="' + escapeHtml(searchData) + '">';
 
     // Card header
     html += '<div class="card-header" onclick="toggleCard(this)">';
@@ -68,8 +68,8 @@
     // Card body (expandable)
     html += '<div class="card-body">';
 
-    // --- Top 25 rich content ---
-    if (isTop25) {
+    // --- Rich content (any program with detailed data) ---
+    if (hasRichContent) {
       // Overview
       if (p.overview) {
         html += '<div class="rich-section overview-section">';
@@ -138,7 +138,7 @@
         html += '</div>';
       }
     } else {
-      // --- Standard (non-Top 25) content ---
+      // --- Standard content for programs without rich data ---
       if (p.description) {
         html += '<p class="program-description">' + escapeHtml(p.description) + '</p>';
       }
@@ -184,26 +184,24 @@
     var el = document.getElementById('comparison-table');
     if (!el || typeof PROGRAMS === 'undefined') return;
 
-    var top25 = PROGRAMS.filter(function (p) { return p.rank <= 25; });
-    if (!top25.length) return;
-
-    var html = '<h2>Program Comparison Summary</h2>';
+    var html = '<h2>All Programs Comparison</h2>';
     html += '<div class="table-wrap"><table class="comparison-tbl">';
     html += '<thead><tr>';
-    html += '<th>Rank</th><th>Program</th><th>Location</th><th>Pos/Yr</th><th>Program Director</th><th>HEMS/CCT</th><th>Key Niche</th>';
+    html += '<th>Rank</th><th>Program</th><th>Location</th><th>Pos/Yr</th><th>Program Director</th><th>Lifestyle Fit</th><th>Key Niche</th>';
     html += '</tr></thead><tbody>';
 
-    top25.forEach(function (p) {
+    PROGRAMS.forEach(function (p) {
       var niche = '';
       if (p.tags && p.tags.length) niche = p.tags.slice(0, 2).join(', ');
       var pdName = p.pd ? p.pd.name.split(',')[0] : '';
+      var lifestyleScore = p.scores && p.scores.lifestyle ? p.scores.lifestyle + '/5' : '—';
       html += '<tr>';
-      html += '<td class="rank-cell rank-' + (p.rank <= 5 ? 'top5' : p.rank <= 10 ? 'top10' : 'top25') + '">' + p.rank + '</td>';
+      html += '<td class="rank-cell rank-' + (p.rank <= 5 ? 'top5' : p.rank <= 10 ? 'top10' : p.rank <= 25 ? 'top25' : '') + '">' + p.rank + '</td>';
       html += '<td class="prog-name-cell">' + escapeHtml(p.name) + '</td>';
       html += '<td>' + escapeHtml(p.city + ', ' + p.state) + '</td>';
       html += '<td class="center-cell">' + (p.positions || '—') + '</td>';
       html += '<td>' + escapeHtml(pdName) + '</td>';
-      html += '<td>' + escapeHtml(p.hems_cct || 'Limited') + '</td>';
+      html += '<td class="center-cell">' + lifestyleScore + '</td>';
       html += '<td>' + escapeHtml(niche) + '</td>';
       html += '</tr>';
     });
