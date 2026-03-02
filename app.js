@@ -9,7 +9,8 @@
     t1: { class: 't1', pill: 'Tier 1', title: 'Best Fit — Highest Confidence', range: '#1 – #11' },
     t2: { class: 't2', pill: 'Tier 2', title: 'Strong Fit — Good Confidence', range: '#12 – #22' },
     t3: { class: 't3', pill: 'Tier 3', title: 'Viable Fit — Worth Exploring', range: '#23 – #33' },
-    t4: { class: 't4', pill: 'Tier 4', title: 'Lower Confidence Matches', range: '#34 – #43' }
+    t4: { class: 't4', pill: 'Tier 4', title: 'Lower Confidence Matches', range: '#34 – #42' },
+    t5: { class: 't5', pill: 'Tier 5', title: 'Lifestyle Fit Below Threshold (< 3/5)', range: '#43 – #84' }
   };
 
   var SCORE_LABELS = {
@@ -284,15 +285,15 @@
     if (!mainEl || typeof PROGRAMS === 'undefined') return;
 
     // Group programs by tier
-    var groups = { t1: [], t2: [], t3: [], t4: [] };
+    var groups = { t1: [], t2: [], t3: [], t4: [], t5: [] };
     PROGRAMS.forEach(function (p) {
-      var tier = p.tier || 't4';
+      var tier = p.tier || 't5';
       if (groups[tier]) groups[tier].push(p);
     });
 
     var html = '<div class="empty-state" id="empty-state">No programs match your search.</div>';
 
-    ['t1', 't2', 't3', 't4'].forEach(function (tierKey) {
+    ['t1', 't2', 't3', 't4', 't5'].forEach(function (tierKey) {
       var programs = groups[tierKey];
       if (!programs.length) return;
       var cfg = TIERS[tierKey];

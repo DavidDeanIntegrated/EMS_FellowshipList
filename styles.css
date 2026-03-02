@@ -26,6 +26,9 @@
   --gray: #6b8599;
   --gray-dim: rgba(107,133,153,0.10);
   --gray-border: rgba(107,133,153,0.25);
+  --rust: #8a6a5a;
+  --rust-dim: rgba(138,106,90,0.10);
+  --rust-border: rgba(138,106,90,0.25);
   --orange: #e8854a;
   --red: #e05555;
   --radius: 10px;
@@ -341,6 +344,7 @@ h1 em {
 .filter-btn.t2.active { background: var(--blue-dim); border-color: var(--blue); color: var(--blue); }
 .filter-btn.t3.active { background: var(--green-dim); border-color: var(--green); color: var(--green); }
 .filter-btn.t4.active { background: var(--gray-dim); border-color: var(--gray); color: var(--gray); }
+.filter-btn.t5.active { background: var(--rust-dim); border-color: var(--rust); color: var(--rust); }
 
 .search-box {
   margin-left: auto;
@@ -433,6 +437,7 @@ h1 em {
 .t2 .tier-pill { background: var(--blue-dim); color: var(--blue); border: 1px solid var(--blue-border); }
 .t3 .tier-pill { background: var(--green-dim); color: var(--green); border: 1px solid var(--green-border); }
 .t4 .tier-pill { background: var(--gray-dim); color: var(--gray); border: 1px solid var(--gray-border); }
+.t5 .tier-pill { background: var(--rust-dim); color: var(--rust); border: 1px solid var(--rust-border); }
 
 .tier-title {
   font-family: 'Instrument Serif', serif;
@@ -460,6 +465,7 @@ h1 em {
 .t2 .program-card:hover { border-color: var(--blue-border); }
 .t3 .program-card:hover { border-color: var(--green-border); }
 .t4 .program-card:hover { border-color: var(--gray-border); }
+.t5 .program-card:hover { border-color: var(--rust-border); }
 
 .card-header {
   display: flex;
@@ -484,6 +490,7 @@ h1 em {
 .t2 .rank-badge { color: var(--blue); }
 .t3 .rank-badge { color: var(--green); }
 .t4 .rank-badge { color: var(--gray); }
+.t5 .rank-badge { color: var(--rust); }
 
 .card-vline {
   width: 1px;
