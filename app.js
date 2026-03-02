@@ -7,9 +7,9 @@
   // Tier configuration
   var TIERS = {
     t1: { class: 't1', pill: 'Tier 1', title: 'Best Fit — Highest Confidence', range: '#1 – #25' },
-    t2: { class: 't2', pill: 'Tier 2', title: 'Strong Fit — Good Confidence', range: '#26 – #50' },
-    t3: { class: 't3', pill: 'Tier 3', title: 'Viable Fit — Worth Exploring', range: '#51 – #70' },
-    t4: { class: 't4', pill: 'Tier 4', title: 'Lower Confidence Matches', range: '#71 – #85' }
+    t2: { class: 't2', pill: 'Tier 2', title: 'Strong Fit — Good Confidence', range: '#26 – #49' },
+    t3: { class: 't3', pill: 'Tier 3', title: 'Viable Fit — Worth Exploring', range: '#50 – #69' },
+    t4: { class: 't4', pill: 'Tier 4', title: 'Lower Confidence Matches', range: '#70 – #84' }
   };
 
   var SCORE_LABELS = {
@@ -39,6 +39,20 @@
       '</div>';
   }
 
+  function computeAvgScore(scores) {
+    if (!scores) return null;
+    var keys = Object.keys(SCORE_LABELS);
+    var sum = 0;
+    var count = 0;
+    keys.forEach(function (k) {
+      if (scores[k] !== undefined) {
+        sum += scores[k];
+        count++;
+      }
+    });
+    return count > 0 ? (sum / count) : null;
+  }
+
   function renderCard(p) {
     var rank = String(p.rank).padStart(2, '0');
     var location = escapeHtml(p.city + ', ' + p.state);
@@ -47,6 +61,7 @@
       .concat(p.strengths || [])
       .join(' ').toLowerCase();
     var hasRichContent = !!(p.overview || p.pd || p.scores || p.strengths || p.weaknesses || p.unique);
+    var avgScore = computeAvgScore(p.scores);
 
     var html = '<div class="program-card' + (hasRichContent ? ' top25' : '') + '" data-search="' + escapeHtml(searchData) + '">';
 
@@ -62,6 +77,10 @@
     if (p.hems_cct) html += '<span class="meta-tag hems">' + escapeHtml(p.hems_cct) + '</span>';
     if (p.warn) html += '<span class="meta-tag warn">' + escapeHtml(p.warn) + '</span>';
     html += '</div>';
+    if (avgScore !== null) {
+      var badgeColor = avgScore >= 4 ? 'fit-high' : avgScore >= 3 ? 'fit-mid' : 'fit-low';
+      html += '<span class="fit-badge ' + badgeColor + '">' + avgScore.toFixed(1) + '</span>';
+    }
     html += '<span class="expand-icon">&#9662;</span>';
     html += '</div>';
 
@@ -187,7 +206,7 @@
     var html = '<h2>All Programs Comparison</h2>';
     html += '<div class="table-wrap"><table class="comparison-tbl">';
     html += '<thead><tr>';
-    html += '<th>Rank</th><th>Program</th><th>Location</th><th>Pos/Yr</th><th>Program Director</th><th>Lifestyle Fit</th><th>Key Niche</th>';
+    html += '<th>Rank</th><th>Program</th><th>Location</th><th>Pos/Yr</th><th>Program Director</th><th>Avg Fit</th><th>Lifestyle</th><th>Key Niche</th>';
     html += '</tr></thead><tbody>';
 
     PROGRAMS.forEach(function (p) {
@@ -195,12 +214,15 @@
       if (p.tags && p.tags.length) niche = p.tags.slice(0, 2).join(', ');
       var pdName = p.pd ? p.pd.name.split(',')[0] : '';
       var lifestyleScore = p.scores && p.scores.lifestyle ? p.scores.lifestyle + '/5' : '—';
+      var avg = computeAvgScore(p.scores);
+      var avgDisplay = avg !== null ? avg.toFixed(1) : '—';
       html += '<tr>';
       html += '<td class="rank-cell rank-' + (p.rank <= 5 ? 'top5' : p.rank <= 10 ? 'top10' : p.rank <= 25 ? 'top25' : '') + '">' + p.rank + '</td>';
       html += '<td class="prog-name-cell">' + escapeHtml(p.name) + '</td>';
       html += '<td>' + escapeHtml(p.city + ', ' + p.state) + '</td>';
       html += '<td class="center-cell">' + (p.positions || '—') + '</td>';
       html += '<td>' + escapeHtml(pdName) + '</td>';
+      html += '<td class="center-cell">' + avgDisplay + '</td>';
       html += '<td class="center-cell">' + lifestyleScore + '</td>';
       html += '<td>' + escapeHtml(niche) + '</td>';
       html += '</tr>';

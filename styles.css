@@ -528,6 +528,34 @@ h1 em {
   background: rgba(232,133,74,0.08);
 }
 
+/* Fit score badge in card header */
+.fit-badge {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.65rem;
+  font-weight: 600;
+  min-width: 36px;
+  text-align: center;
+  padding: 0.2rem 0.5rem;
+  border-radius: 50px;
+  flex-shrink: 0;
+  letter-spacing: 0.02em;
+}
+.fit-badge.fit-high {
+  color: #27ae60;
+  background: rgba(39,174,96,0.10);
+  border: 1px solid rgba(39,174,96,0.30);
+}
+.fit-badge.fit-mid {
+  color: #f39c12;
+  background: rgba(243,156,18,0.10);
+  border: 1px solid rgba(243,156,18,0.30);
+}
+.fit-badge.fit-low {
+  color: #e74c3c;
+  background: rgba(231,76,60,0.10);
+  border: 1px solid rgba(231,76,60,0.30);
+}
+
 .expand-icon {
   color: var(--muted);
   font-size: 0.75rem;
