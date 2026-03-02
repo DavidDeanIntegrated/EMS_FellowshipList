@@ -1,53 +1,82 @@
 # EMS Fellowship Rankings
 > Personalized Fit Analysis · EMS Medicine Subspecialty
 
-Ranked by your specific interests: operational/fire-service + military-adjacent culture, special-operations/tactical exposure, systems-building and QI/data, critical care transport, and Southwest/Southeast lifestyle fit (with extra weight against far-left city culture where it may affect your day-to-day enjoyment).
+Ranked by average fit score across all 6 criteria. Filtered to include only programs with Lifestyle Fit >= 3/5.
 
 ## At a glance
-- **85** — Programs Ranked
+- **43** — Programs Ranked
 - **4** — Fit Tiers
-- **25** — High-Confidence Matches
+- **Lifestyle >= 3** — Minimum Lifestyle Fit Filter
 
 ## Note
-Note: Ranks 1–25 are highest-confidence matches based on your stated preferences (ops/military/fire culture + lifestyle/politics fit). Ranks 26–85 carry lower confidence due to limited operational data for some directory-only listings; descriptions there are written from available location/agency context and may need program-specific confirmation. Program #21 (Military EMS, TX) may have eligibility constraints depending on status.
+Programs are ranked by average fit score across 6 criteria (System/QI, Ops/Autonomy, CCT/Aviation, Austere/Disaster, Lifestyle, Economic). Only programs with Lifestyle Fit >= 3/5 are included. Program #1 (Military EMS, TX) may have active-duty eligibility requirements — verify before applying. Program #27 (UC Davis) is a duplicate NAEMSP listing of Program #25.
 
 ## Rankings by tier
 
-### Tier 1 — Best Fit — Highest Confidence (#1 – #25) (25)
+### Tier 1 — Best Fit — Highest Confidence (#1 – #11) (11)
 
-#### 1 — University of Cincinnati — Cincinnati, OH
-- **Meta:** ACGME
+#### 1 — Military EMS & Disaster Medicine Fellowship (TX) — San Antonio, TX
+- **Meta:** 3 positions/yr · Military
+- **Average Fit Score:** 4.50/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 5/5 | CCT/Aviation: 4/5 | Austere/Disaster: 5/5 | Lifestyle: 4/5 | Economic: 5/5
 - **Details:**
-  - **Location:** Cincinnati, OH
-  - **Research Legacy:** Major NIH-funded prehospital research site
-  - **HEMS/CCT:** Air Care & Mobile Care — elite CCT program
-  - **Accreditation:** ACGME | NRMP Match
+  - **Location:** San Antonio, TX (Brooke Army Medical Center area)
+  - **⚠ Eligibility:** May require active-duty military status — verify directly
+  - **Specialty:** Military EMS + Disaster Medicine
+  - **Unique Exposures:** TCCC, TEMS, operational medicine, MASCAL
 
-**Description:** UC's EMS fellowship benefits from a strong academic EM department known for major research contributions (resuscitation, trauma, stroke). Air Care & Mobile Care is one of the country's most sophisticated critical care transport programs. Cincinnati has diverse EMS system exposure across urban, suburban, and rural environments.
+**Overview:** This program is associated with the military medical community in San Antonio at Brooke Army Medical Center. Active-duty military status or specific service commitments may be required — eligibility must be verified directly before applying.
 
-**Highlights:** Resuscitation Research, HEMS / Air Care, CCT, Strong Research
+**Strengths:**
+- Extraordinary exposure to TCCC, TEMS, disaster medicine, and operational medicine at the highest level
+- One of the most significant military medical hubs in the country
+- 3 positions per year
 
-**Links:** [↗ UC Emergency Medicine](https://med.uc.edu/depart/emergency-medicine) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+**Weaknesses:**
+- May require active-duty military status — not accessible to all applicants
+- Limited applicability if not currently affiliated with the military
+
+**What Makes It Unique:** If eligible, this represents the pinnacle of military operational EMS training. Verify eligibility before investing time in the application process.
+
+**Highlights:** TCCC / Combat, TEMS, Disaster Medicine, Operational Medicine
+
+**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
 
 #### 2 — University of Arizona — Tucson, AZ
-- **Meta:** 1 position · ACGME
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 4.33/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 5/5 | Lifestyle: 5/5 | Economic: 5/5
 - **Details:**
   - **Program Director:** Dr. Joshua Gaither
   - **Location:** Tucson, AZ
   - **Positions / Year:** 1
   - **Unique Exposures:** Desert rescue, heat emergencies, border medicine
   - **Lifestyle:** SW desert, outdoor recreation, affordable
-  - **Military / Aviation Adjacent:** Davis–Monthan AFB rescue/aviation ecosystem nearby (specific training opportunities vary)
-  - **Application Edge:** Close to your current Tucson-region training footprint
 
-**Description:** Strong home‑region advantage: Tucson is close to your current training footprint, so networking, ride‑alongs, and local reputation can be easier. The Southwest/border environment adds heat/desert rescue and operational medicine reps, and the nearby Davis–Monthan AFB rescue/aviation ecosystem can create unique training opportunities with rescue and other operational teams (exact opportunities vary by year).
+**Overview:** Tucson's desert and border environment creates distinctive prehospital challenges including heat emergencies, wilderness/desert rescues, and cross-border medicine. Banner University Medical Center is a Level I trauma center with high-acuity prehospital volume. The program accepts 1 fellow per year and is ACGME-accredited.
 
-**Highlights:** Border Medicine, Desert / Wilderness, Fire / Rescue Culture, Heat Emergencies, Local Proximity Advantage, Military / Aviation Adjacent, SW Lifestyle
+**Strengths:**
+- Outstanding Southwest lifestyle alignment: desert outdoor recreation, affordable cost of living
+- Unique clinical exposures not found elsewhere: desert rescue, heat-related illness, border medicine
+- Dr. Gaither is a nationally recognized leader and developer of the ADPR™ and AHLS™ continuing education courses
+- State-level involvement: Gaither chairs the Arizona DHS Trauma and EMS Performance Improvement Committee
+- Proximity to Phoenix (Creighton) may offer networking advantages during the application process
 
-**Links:** [↗ Fellowship Page](http://emergencymed.arizona.edu/fellowships/ems)
+**Weaknesses:**
+- Only 1 position per year limits acceptance odds
+- Tucson is smaller than other program cities, with fewer large-system EMS complexities
+- HEMS/CCT exposure may be less robust than programs with dedicated aeromedical partners
+
+**What Makes It Unique:** The combination of desert/wilderness medicine, border health challenges, and close proximity to a current Creighton Phoenix resident's network make this a natural lifestyle and career fit. Dr. Gaither's state-level leadership positions provide fellows with unique policy exposure.
+
+**Highlights:** Desert / Wilderness, Border Medicine, SW Lifestyle, Heat Emergencies
+
+**Links:** [↗ Fellowship Page](https://emergencymed.arizona.edu/fellowships/ems)
 
 #### 3 — UT Health San Antonio — San Antonio, TX
-- **Meta:** ACGME
+- **Meta:** 3 positions/yr · ACGME
+- **Average Fit Score:** 4.33/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 5/5 | CCT/Aviation: 3/5 | Austere/Disaster: 5/5 | Lifestyle: 4/5 | Economic: 5/5
 - **Details:**
   - **Program Director:** Craig Cooley, MD, MPH, EMT-P, FACEP, FAEMS
   - **Location:** San Antonio, TX
@@ -55,91 +84,60 @@ Note: Ranks 1–25 are highest-confidence matches based on your stated preferenc
   - **Unique Exposures:** TEMS, military EMS, border region
   - **Lifestyle:** SW Texas — affordable, culture-rich
 
-**Description:** San Antonio's unique military-civilian interface — home to Brooke Army Medical Center and multiple large military installations — creates exceptional exposure to TEMS, mass casualty, and high-acuity trauma EMS. Strong South Texas EMS environment with urban, suburban, and border medicine dimensions.
+**Overview:** San Antonio's unique military-civilian interface—home to Brooke Army Medical Center and Joint Base San Antonio (JBSA), the largest U.S. military base complex—creates exceptional exposure to TEMS, mass casualty, and high-acuity trauma EMS. The program accepts 3 fellows per year and is ACGME-accredited.
+
+**Strengths:**
+- Unmatched military-EMS integration: Brooke AMC, JBSA, TEMS, and mass casualty training
+- 3 positions per year offers better odds and cohort learning
+- Strong South Texas EMS environment with urban, suburban, and border medicine dimensions
+- Affordable cost of living with warm-weather, culture-rich lifestyle
+- Dr. Cooley is nationally prominent in fellowship education leadership
+
+**Weaknesses:**
+- San Antonio summers are intensely hot and humid (different from dry Southwest heat)
+- Less wilderness/mountain terrain compared to programs in the Mountain West
+- Research infrastructure, while growing, may not match top-tier research-focused programs
+
+**What Makes It Unique:** For anyone interested in tactical EMS, military medicine, or operational environments, this is among the top 2-3 programs nationally. The military-civilian interface is truly unique and cannot be replicated elsewhere.
 
 **Highlights:** Military / TEMS, Trauma, SW Lifestyle, Border Medicine, Large System
 
 **Links:** [↗ UT Health SA](https://www.uthscsa.edu/academics/medicine/departments/emergency-health-sciences) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
 
-#### 4 — Carolinas Medical Center — Charlotte, NC
-- **Meta:** ACGME
+#### 4 — University of Cincinnati — Cincinnati, OH
+- **Meta:** 3 positions/yr · ACGME · Air Care & Mobile Care
+- **Average Fit Score:** 4.17/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 5/5 | CCT/Aviation: 5/5 | Austere/Disaster: 3/5 | Lifestyle: 3/5 | Economic: 4/5
 - **Details:**
-  - **Location:** Charlotte, NC
-  - **Hospital:** Atrium Health CMC — Level I Trauma
-  - **HEMS:** Carolinas MedCenter Air
-  - **Lifestyle:** Growing metro, SE culture, mountains nearby
+  - **Location:** Cincinnati, OH
+  - **Research Legacy:** Major NIH-funded prehospital research site
+  - **HEMS/CCT:** Air Care & Mobile Care — elite CCT program
   - **Accreditation:** ACGME | NRMP Match
 
-**Description:** Charlotte's Atrium Health Carolinas Medical Center is a major academic Level I trauma center in a rapidly growing urban environment. Strong Mecklenburg EMS system and regional HEMS with Carolinas MedCenter Air. The Charlotte region offers urban density with easy access to Appalachian mountain terrain within 2 hours.
+**Overview:** The UC EMS Fellowship, one of the oldest in the country (established 1996), was among the first programs to receive ACGME accreditation in 2013. It sits within the nation's oldest Emergency Medicine residency training program, providing a deep academic ecosystem. The program accepts 3 fellows per year and participates in the NRMP Emergency Medicine Subspecialties Match.
 
-**Highlights:** HEMS Access, Level I Trauma, SE Lifestyle, Growing Metro
+**Strengths:**
+- Major NIH-funded prehospital research site with national contributions to resuscitation, trauma, and stroke research
+- Air Care & Mobile Care is one of the country's most sophisticated critical care transport programs, offering elite HEMS/CCT exposure
+- Diverse EMS system exposure spanning urban, suburban, and rural environments across the greater Cincinnati region
+- Total annual fellow compensation exceeds $140,000 (PGY-4/5 scale plus community hospital moonlighting)
+- Three positions per year create a built-in cohort for peer learning
 
-**Links:** [↗ Atrium Health GME](https://atriumhealth.org/medical-professionals/graduate-medical-education) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+**Weaknesses:**
+- Cincinnati's Midwest climate and geography do not align with warm-weather/outdoor preferences
+- Less emphasis on wilderness, austere, or tactical medicine compared to Western programs
+- The city, while affordable and livable, lacks the outdoor recreation profile of Southwest or Mountain West locations
 
-#### 5 — UPMC / University of Pittsburgh — Pittsburgh, PA
-- **Meta:** 1 position · ACGME
-- **Details:**
-  - **Program Director:** Christian Martin-Gill, MD, MPH
-  - **Location:** Pittsburgh, PA
-  - **Positions / Year:** 1
-  - **Founded:** 1990 — 38+ fellows trained
-  - **HEMS Partner:** STAT MedEvac
-  - **EMS Partners:** Pittsburgh EMS, Fire, Police, UPMC Prehospital
+**What Makes It Unique:** Housed within the oldest EM department in the country, fellows benefit from a mature research infrastructure and a deep alumni network. Air Care & Mobile Care provides critical care transport experience that few programs can match.
 
-**Description:** One of the oldest and most research-prolific EMS fellowship programs in the country (since 1990). Partners include STAT MedEvac (rotor-wing), UPMC Prehospital Care, and the City of Pittsburgh Bureau of EMS. Fellows have historically won major research grants and presented at national meetings. Deep integration with fire-based EMS can be a strong match for your preference for firefighter/operational culture.
+**Highlights:** Resuscitation Research, HEMS / Air Care, CCT, Strong Research
 
-**Highlights:** HEMS / STAT MedEvac, Strong Research Program, Disaster Preparedness, Long Track Record, Urban Multi-Agency
+**Links:** [↗ UC Emergency Medicine](https://med.uc.edu/depart/emergency-medicine) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
 
-**Links:** [↗ Fellowship Page](https://www.emergencymedicine.pitt.edu/education/fellowship-emergency-medical-services) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 6 — Vanderbilt University Medical Center — Nashville, TN
-- **Meta:** 1 position · ACGME
-- **Details:**
-  - **Program Director:** Jared McKinney, MD
-  - **Location:** Nashville, TN
-  - **Positions / Year:** 1
-  - **HEMS Partner:** Vanderbilt LifeFlight (premier aeromedical)
-  - **Fire EMS:** Nashville Fire Department medical direction
-  - **Event Medicine:** CMA Fest, NASCAR, Bridgestone Arena
-
-**Description:** One of the South's premier EMS fellowships with exceptional HEMS access via Vanderbilt LifeFlight — one of the country's premier aeromedical services. Nashville Fire Department medical direction, QI meetings, and protocol development provide rich systems-building experience. Multiple event medicine opportunities including CMA Fest, NASCAR, and major concerts.
-
-**Highlights:** HEMS / LifeFlight, Protocol Development, Event Medicine, QI / Research, SE Lifestyle
-
-**Links:** [↗ Fellowship Page](https://emergencymedicine.vumc.org/fellowships/ems) · [↗ Vanderbilt EMS](https://www.vanderbiltem.com/ems1)
-
-#### 7 — UTHealth Houston — McGovern Medical School — Houston, TX
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Houston, TX
-  - **EMS System:** Houston Fire Dept. EMS — 2M+ residents
-  - **HEMS:** Memorial Hermann Life Flight
-  - **Research Hub:** Texas Medical Center — world's largest
-  - **Lifestyle:** Major SW metro; diverse, affordable, warm
-
-**Description:** Houston has one of the most complex EMS systems in the country — HFD is the largest fire-based EMS in Texas, serving 2M+ residents. Memorial Hermann HEMS and Life Flight provide outstanding aeromedical exposure. Houston Medical Center — the world's largest medical complex — offers tremendous research and academic resources.
-
-**Highlights:** HEMS / Life Flight, Large Fire-Based EMS, Research Access, SW Lifestyle
-
-**Links:** [↗ UTHealth Houston EM](https://www.uth.edu/mcgovern/departments/emergency-medicine) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 8 — UT Southwestern — Dallas, TX
-- **Meta:** ACGME
-- **Details:**
-  - **Program Director:** Kathy J. Rinnert, MD, MPH, FACEP
-  - **Location:** Dallas, TX
-  - **EMS Complexity:** Dallas/FW metro — 7.8M population, multi-agency
-  - **Research:** UTSW — 6 Nobel Laureates; exceptional research culture
-  - **Lifestyle:** Major SW metro; sports, culture, warm climate
-
-**Description:** UT Southwestern is one of the top academic medical centers in the US with exceptional research infrastructure. Dallas/Fort Worth's enormous metro area — 7.8M people — creates complex multi-agency EMS environments. Strong academic EM department with significant funded research and multiple hospital affiliations.
-
-**Highlights:** Top Research Env., Large Complex Metro, SW Lifestyle, Multi-Agency EMS
-
-**Links:** [↗ UTSW Emergency Medicine](https://www.utsouthwestern.edu/departments/emergency-medicine/) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 9 — University of New Mexico — Albuquerque, NM
-- **Meta:** 3 positions · ACGME
+#### 5 — University of New Mexico — Albuquerque, NM
+- **Meta:** 3 positions/yr · ACGME
+- **Average Fit Score:** 4.17/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 5/5 | Lifestyle: 5/5 | Economic: 5/5
 - **Details:**
   - **Program Director:** Dorothy Habrat, DO
   - **Location:** Albuquerque, NM
@@ -148,29 +146,30 @@ Note: Ranks 1–25 are highest-confidence matches based on your stated preferenc
   - **Lifestyle:** Southwest culture, outdoor access, affordable
   - **Accreditation:** ACGME | NRMP Match
 
-**Description:** Exceptional for wilderness, rural, and austere environment EMS. New Mexico's vast geography — mountains, desert, tribal lands — creates uniquely complex prehospital scenarios rarely found elsewhere. Strong international and rural medicine ties align well with global/disaster interests. One of the largest EMS fellowship programs by positions (3 per year).
+**Overview:** Exceptional for wilderness, rural, and austere environment EMS. New Mexico's vast geography—mountains, desert, tribal lands—creates uniquely complex prehospital scenarios. The program accepts 3 fellows per year, one of the largest fellowship cohorts in the country.
+
+**Strengths:**
+- Unmatched rural, tribal, desert, and mountain terrain exposure
+- 3 positions per year provides the best odds of any top-tier program
+- Southwest culture, outdoor access, affordable cost of living
+- Strong international and rural medicine ties align with global/disaster interests
+- ACGME-accredited with NRMP Match participation
+
+**Weaknesses:**
+- Albuquerque's metro area is smaller than other program cities, limiting urban complexity
+- Research infrastructure may be less robust than Cincinnati, UPMC, or Hopkins
+- Albuquerque has crime and safety concerns in certain areas
+
+**What Makes It Unique:** For austere/wilderness EMS interest, UNM is arguably the single best program in the country. Tribal land medicine and rural rescue scenarios are unique to this geography.
 
 **Highlights:** Wilderness / Austere, Rural EMS, Tribal Health, SW Lifestyle, Desert Medicine
 
 **Links:** [↗ Fellowship Page](https://emed.unm.edu/education/current-fellowships/emergency-medical-services.html) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
 
-#### 10 — University of Utah — Salt Lake City, UT
-- **Meta:** ACGME
-- **Details:**
-  - **Program Director:** Jason R. Pickett, MD (formerly UT-Austin)
-  - **Location:** Salt Lake City, UT
-  - **Trauma Level:** Level I — regional center for 4 states
-  - **Lifestyle:** World's greatest snow; 5 ski resorts within 30 min
-  - **Wilderness Access:** Wasatch Range, Canyonlands, multiple national parks
-
-**Description:** Salt Lake City's unique position — major urban center surrounded by world-class wilderness — makes this fellowship exceptional for austere, mountain, and wilderness EMS exposure. University Hospital is a Level I trauma center serving Utah, Nevada, Idaho, and Wyoming. New PD Jason Pickett brings deep TEMS and military medicine experience from UT-Austin.
-
-**Highlights:** Mountain / Wilderness, TEMS, Military Background PD, Outdoor Lifestyle, Regional Trauma Hub
-
-**Links:** [↗ Fellowship Page](https://medicine.utah.edu/emergency-medicine/fellowships/ems)
-
-#### 11 — Denver Health — Denver, CO
-- **Meta:** 2 positions · ACGME
+#### 6 — Denver Health — Denver, CO
+- **Meta:** 2 positions/yr · ACGME · CCT
+- **Average Fit Score:** 4.17/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 5/5 | CCT/Aviation: 4/5 | Austere/Disaster: 4/5 | Lifestyle: 4/5 | Economic: 3/5
 - **Details:**
   - **Program Director:** Lara D. Rappaport, MD
   - **Location:** Denver, CO
@@ -179,57 +178,93 @@ Note: Ranks 1–25 are highest-confidence matches based on your stated preferenc
   - **Lifestyle:** Outdoor capital: skiing, hiking, climbing
   - **Unique Exposures:** High-altitude, mountain rescue, ski EMS
 
-**Description:** Denver's unique geography offers high-altitude, mountain, and wilderness EMS exposure alongside urban operations in one of the fastest-growing cities in the West. Denver Health is the region's primary safety-net Level I trauma center. Rocky Mountain backdrop means access to wilderness medicine, ski patrol medicine, and mountain rescue environments.
+**Overview:** Denver Health's EMS and Disaster Fellowship is a one-year ACGME-accredited program affiliated with Denver Health Medical Center and the Denver Health Paramedic Division (DHPD). DHPD is a hospital-based third-service system providing 911 response for the city and county of Denver, running over 100,000 calls and transporting over 80,000 patients per year with 200 medics. The program accepts 2 fellows per year.
+
+**Strengths:**
+- Unique paramedic field training program: fellows complete the same field training as new Denver Health paramedics, gaining deep understanding of system operations
+- "Tuesday Meetings" structure integrates didactic sessions, Clinical Performance review, case/data review, and command staff interaction
+- Rocky Mountain access: skiing, hiking, climbing, mountain rescue, high-altitude medicine
+- Denver Health is the only Level I trauma center in Colorado (adult) and a safety-net hospital
+- Event medicine: Broncos games, local festivals, concerts, dignitary visits
+- 2 positions per year
+
+**Weaknesses:**
+- Denver's cost of living has risen significantly in recent years
+- Cold winters, though much sunnier than Pittsburgh or the Midwest
+
+**What Makes It Unique:** The paramedic field training immersion is truly distinctive; fellows experience the system exactly as new paramedics do, building credibility and operational understanding from the ground up. The integration with command staff on Tuesdays provides unparalleled exposure to system leadership and decision-making.
 
 **Highlights:** Mountain / Wilderness, High-Altitude, Urban + Rural Combo, Outdoor Lifestyle
 
 **Links:** [↗ Fellowship Page](https://www.denverem.org/ems-dh)
 
-#### 12 — Wake Forest Department of Emergency Medicine — Winston-Salem, NC
-- **Meta:** ACGME
+#### 7 — Arrowhead Regional Medical Center — Colton, CA
+- **Meta:** 2 positions/yr
+- **Average Fit Score:** 4.08/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 4/5 | Austere/Disaster: 4/5 | Lifestyle: 4.5/5 | Economic: 4/5
 - **Details:**
-  - **Location:** Winston-Salem, NC
-  - **Hospital:** Atrium Health Wake Forest Baptist — Level I
-  - **Nearby Wilderness:** Blue Ridge Mountains — 1 hour
-
-**Description:** Wake Forest Baptist's EMS fellowship in Winston-Salem benefits from a strong academic EM department known for research and clinical excellence. Forsyth County EMS and surrounding regional agencies provide diverse EMS exposure. Appalachian mountains are within an hour for wilderness access.
-
-**Highlights:** Academic Research, SE Lifestyle, Mountains Nearby
-
-**Links:** [↗ Wake Forest EM](https://www.wakehealth.edu/emergency-medicine)
-
-#### 13 — Johns Hopkins University — Baltimore, MD
-- **Meta:** 1 position · ACGME
-- **Details:**
-  - **Program Director:** Asa Margolis, DO, MPH, MS
-  - **Location:** Baltimore, MD
-  - **Positions / Year:** 1
-  - **Unique Asset:** Bloomberg School of Public Health access
-  - **EMS:** Baltimore City Fire/EMS + regional systems
-
-**Description:** World-class academic EMS fellowship at one of medicine's most prestigious institutions. Hopkins' Bloomberg School of Public Health and global health networks provide unparalleled research and disaster medicine pathways. Baltimore's complex urban EMS environment adds operational depth and challenge. Deep integration with fire-based EMS can be a strong match for your preference for firefighter/operational culture.
-
-**Highlights:** Prestige / Research, Disaster Medicine, Global Health, Public Health, Urban Complex
-
-**Links:** [↗ Fellowship Page](http://www.hopkinsmedicine.org/emergencymedicine/fellowship_programs/ems_fellowship.html)
-
-#### 14 — Yale University — New Haven, CT
-- **Meta:** 2 positions · ACGME
-- **Details:**
-  - **Program Director:** Kate Couturier, MD, MPH
-  - **Location:** New Haven, CT
+  - **Program Director:** Troy Pennington, DO
+  - **Location:** Colton, CA (San Bernardino County)
   - **Positions / Year:** 2
-  - **Research:** Yale School of Public Health; global health access
-  - **EMS System:** New Haven EMS and surrounding regional systems
+  - **Contact:** troy@armcems.com
+  - **Partners:** SB County Fire, ICEMA, Fontana PD, Mercy Air
 
-**Description:** Yale's EMS fellowship combines the academic power of one of the world's top research universities with New Haven's diverse urban EMS environment. Strong disaster medicine and research opportunities backed by Yale's public health and global health infrastructure. Proximity to New York metro adds system complexity. Opportunities in tactical/special-operations-adjacent EMS may be available depending on local partnerships.
+**Overview:** Under the guidance of Dr. Troy Pennington, Arrowhead offers two fellowship spots based in Colton, California. The program is a recognized powerhouse for multi-agency operational integration, partnering extensively with the San Bernardino County Fire Department, the Inland Counties Emergency Medical Agency (ICEMA), Fontana Police Department, and Mercy Air. This sprawling network provides a highly diverse operational matrix spanning tactical law enforcement support, aeromedical retrieval, and fire-based EMS oversight.
 
-**Highlights:** Elite Research Env., Disaster Medicine, Global Health, Public Health MPH Access
+**Strengths:**
+- Recognized powerhouse for multi-agency operational integration
+- Partnerships with SB County Fire, ICEMA, Fontana PD, and Mercy Air
+- Highly diverse operational matrix: tactical, aeromedical, and fire-based EMS
+- Over 300 days of sunshine annually with mountain and desert recreation
+- 2 positions per year in Southern California
 
-**Links:** [↗ Yale EM Dept](https://medicine.yale.edu/emergencymed/)
+**Weaknesses:**
+- Inland Empire has regional smog and urban sprawl
+- Less academic prestige than university-based programs
+- Colton is not a destination city
+- County hospital environment differs from academic medical centers
 
-#### 15 — University of Washington — Seattle, WA
-- **Meta:** 1 position · ACGME
+**What Makes It Unique:** The sprawling multi-agency network — spanning tactical law enforcement, Mercy Air aeromedical retrieval, and fire-based EMS oversight — provides one of the most operationally diverse fellowship experiences in the country.
+
+**Highlights:** Multi-Agency Integration, Tactical/TEMS, HEMS / Mercy Air, Fire-Based EMS, Desert/Mountain
+
+**Links:** [↗ Fellowship Page](https://armcems.com/)
+
+#### 8 — UTHealth Houston — McGovern Medical School — Houston, TX
+- **Meta:** 2 positions/yr · ACGME · Memorial Hermann Life Flight
+- **Average Fit Score:** 4.00/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 4/5 | Austere/Disaster: 3/5 | Lifestyle: 4/5 | Economic: 4/5
+- **Details:**
+  - **Location:** Houston, TX
+  - **EMS System:** Houston Fire Dept. EMS — 2M+ residents
+  - **HEMS:** Memorial Hermann Life Flight
+  - **Research Hub:** Texas Medical Center — world's largest
+  - **Lifestyle:** Major SW metro; diverse, affordable, warm
+
+**Overview:** Houston Fire Department EMS is the largest fire-based EMS system in Texas, serving 2M+ residents. Memorial Hermann Life Flight provides outstanding aeromedical exposure, and the Texas Medical Center—the world's largest medical complex—offers tremendous research and academic resources. The program accepts 2 fellows per year.
+
+**Strengths:**
+- Massive, complex EMS system serving one of the most diverse metropolitan areas in the U.S.
+- Texas Medical Center offers unparalleled research infrastructure
+- Memorial Hermann Life Flight: nationally recognized aeromedical program
+- Warm climate, affordable cost of living, and diverse population
+- 2 positions per year
+
+**Weaknesses:**
+- Houston's flat terrain and Gulf Coast humidity offer no mountain/wilderness exposure
+- Sprawling urban layout can make commuting challenging
+- Less tactical/military niche compared to San Antonio
+
+**What Makes It Unique:** The sheer scale and diversity of Houston's EMS system, combined with the world's largest medical complex, create unique opportunities for systems-level research and multi-agency coordination.
+
+**Highlights:** HEMS / Life Flight, Large Fire-Based EMS, Research Access, SW Lifestyle
+
+**Links:** [↗ UTHealth Houston EM](https://www.uth.edu/mcgovern/departments/emergency-medicine) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+
+#### 9 — University of Washington — Seattle, WA
+- **Meta:** 2 positions/yr · ACGME · Airlift Northwest
+- **Average Fit Score:** 4.00/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 5/5 | CCT/Aviation: 5/5 | Austere/Disaster: 4/5 | Lifestyle: 3/5 | Economic: 2/5
 - **Details:**
   - **Program Director:** Andy McCoy, MD
   - **Location:** Seattle, WA (King County)
@@ -238,78 +273,34 @@ Note: Ranks 1–25 are highest-confidence matches based on your stated preferenc
   - **HEMS Partner:** Airlift Northwest (5 bases, WA + SE Alaska)
   - **Ground EMS Partner:** Seattle Fire Dept. + King County Medic One
 
-**Description:** The gold standard for EMS fellowships with unmatched HEMS exposure via Airlift Northwest across Alaska, Washington, Montana, and Idaho. Home to the legendary King County Medic One — the birthplace of modern EMS and the world's best cardiac arrest survival rates (~55%). Harborview Medical Center is the only Level I trauma/burn center serving AK, MT, WA, and ID. Seattle’s broader political culture is very progressive; if that feels like friction, the day‑to‑day fellowship world is still largely paramedics, firefighters, and operational leaders.
+**Overview:** Widely regarded as the gold standard for EMS fellowships, UW offers unmatched HEMS exposure via Airlift Northwest across Alaska, Washington, Montana, and Idaho. Home to the legendary King County Medic One—the birthplace of modern EMS and the world's best cardiac arrest survival rates (~55%). Harborview Medical Center is the only Level I trauma/burn center serving AK, MT, WA, and ID. The program accepts 2 fellows per year (increased from 1).
 
-**Highlights:** Cardiac Arrest Science, Global EM, HEMS / Air Medical, Progressive City Context, Research-Rich, Rural + Urban + Mountain, Wilderness / Austere
+**Strengths:**
+- King County Medic One: 55% cardiac arrest survival rate—the birthplace of modern EMS
+- Airlift Northwest: 5 bases covering WA and SE Alaska for rotor-wing aeromedical experience
+- Interdisciplinary faculty from EM, Cardiology, Internal Medicine, Critical Care
+- Access to the Cobb Cardiac Arrest Registry (every Seattle cardiac arrest since 1970) and CEEMS registry
+- Harborview Level I trauma/burn center serving 4-state catchment area
+- Seattle Fire Department + King County Medic One partnerships
+- Pacific Northwest outdoor access
+
+**Weaknesses:**
+- Seattle's cost of living is very high
+- Pacific Northwest weather is gray and rainy much of the year
+- Only recently expanded to 2 positions; historically extremely competitive
+- Washington and Alaska medical licenses required before starting
+- No visa sponsorship available
+
+**What Makes It Unique:** The King County EMS system is studied worldwide as the model for cardiac arrest resuscitation. Access to the Cobb Cardiac Arrest Registry and decades of meticulously collected data creates unparalleled research opportunities in resuscitation science. The Airlift Northwest experience across Alaska and the Pacific Northwest provides austere/wilderness aeromedical exposure.
+
+**Highlights:** HEMS / Air Medical, Wilderness / Austere, Global EM, Research-Rich, Cardiac Arrest Science, Rural + Urban + Mountain
 
 **Links:** [↗ Fellowship Page](https://em.uw.edu/education/fellowships/ems-fellowship) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
 
-#### 16 — UT Austin Dell Med / Austin-Travis County EMS — Austin, TX
-- **Meta:** ACGME
-- **Details:**
-  - **Program Director:** Mark E. Escott, MD, MPH, FACEP, FAEMS, NRP
-  - **Location:** Austin, TX
-  - **EMS System:** Austin-Travis County EMS (Third-Service)
-  - **Accreditation:** ACGME | NRMP Match
-  - **Strengths:** Data-driven QI, TEMS, progressive protocols
-  - **Location Lifestyle:** Tech hub, outdoor culture, vibrant city
-
-**Description:** One of the most innovative EMS programs in the country, embedded in Austin-Travis County EMS — a nationally recognized third-service system with strong data, QI infrastructure, and progressive clinical protocols. Dell Med's newer program is building a reputation for research and innovation in prehospital care with direct ties to TEMS and tactical operations.
-
-**Highlights:** TEMS / Tactical, Data & QI, Third-Service Model, SW Lifestyle, Protocol Innovation
-
-**Links:** [↗ Dell Med GME](https://dellmed.utexas.edu/education/graduate-medical-education/fellowships) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 17 — University of Wisconsin — Madison, WI
-- **Meta:** 1 position · ACGME
-- **Details:**
-  - **Location:** Madison, WI
-  - **Positions / Year:** 1
-  - **EMS Consortium:** 7 agencies — urban to rural, fire-based to 3rd service
-  - **Tactical Training:** Fort McCoy TEMS course (U.S. Army Reserve)
-  - **Disaster:** FEMA HERT course + instructor certification
-  - **QI / Research:** Dedicated QI and patient safety research group
-
-**Description:** Wisconsin's fellowship is built around the UW ALS Consortium — 7 agencies ranging from Madison's large fire-based EMS to rural volunteer services — offering remarkable system diversity. Includes Tactical EMS training at Fort McCoy and FEMA Center for Domestic Preparedness courses. Nationally ranked for physician quality of life (Medscape/Becker's 2024). Military/aviation-adjacent exposure can add useful operational training.
-
-**Highlights:** TEMS / Tactical, FEMA Disaster, Rural + Urban, System Diversity, QI Research
-
-**Links:** [↗ Fellowship Page](https://emed.wisc.edu/education/fellowships/ems-fellowship/)
-
-#### 18 — USC / LAFD — Los Angeles, CA
-- **Meta:** 1 position · ACGME
-- **Details:**
-  - **Program Director:** Marc Eckstein, MD, MPH, FACEP, FAEMS
-  - **Location:** Los Angeles, CA
-  - **Positions / Year:** 1
-  - **EMS System:** LAFD — serves 4M+ residents
-  - **Unique Exposures:** MCI, earthquake prep, TEMS, urban operations
-  - **Academic Home:** Keck School of Medicine, USC
-
-**Description:** Embedded with the Los Angeles Fire Department — one of the largest and most complex urban EMS systems in the world, serving 4 million people. Unparalleled exposure to mass casualty events, disaster preparedness, and multi-agency urban coordination in one of the most operationally complex cities in the country. Military/aviation-adjacent exposure can add useful operational training.
-
-**Highlights:** Fire-Based EMS, Urban MCI, Disaster Preparedness, Multi-Agency, Large System
-
-**Links:** [↗ Keck EM Dept](http://www.keck.usc.edu/emergency-medicine)
-
-#### 19 — University of California, San Diego — San Diego, CA
-- **Meta:** 1 position · ACGME
-- **Details:**
-  - **Program Director:** Erin Noste, MD
-  - **Location:** San Diego, CA
-  - **Positions / Year:** 1
-  - **Research:** Strong NIH-funded EM research environment
-  - **Unique Exposures:** Border medicine, maritime, MCI
-  - **Lifestyle:** Coastal SoCal — beaches, mountains, desert
-
-**Description:** A premier West Coast EMS fellowship with strong ties to SDFD and diverse prehospital systems across urban, suburban, and coastal environments. UCSD is a top-tier research institution with multiple NIH-funded labs. Southern California geography offers unique mass casualty, border, and maritime EMS experience.
-
-**Highlights:** Disaster Medicine, Border Medicine, Research-Rich, SW Lifestyle, MCI Exposure
-
-**Links:** [↗ Fellowship Page](https://medschool.ucsd.edu/som/emergency-med/education/fellowships/ems/Pages/default.aspx)
-
-#### 20 — University of North Carolina — Chapel Hill, NC
-- **Meta:** ACGME
+#### 10 — University of North Carolina — Chapel Hill, NC
+- **Meta:** 2 positions/yr · ACGME · Carolina AirCare
+- **Average Fit Score:** 4.00/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 4/5 | Austere/Disaster: 4/5 | Lifestyle: 3/5 | Economic: 4/5
 - **Details:**
   - **Program Director:** Joseph Grover, MD, FAEMS
   - **Assoc. Director:** José Cabañas, MD, MPH
@@ -317,44 +308,159 @@ Note: Ranks 1–25 are highest-confidence matches based on your stated preferenc
   - **Faculty Niches:** Wilderness, USAR, TEMS, MIH, State EMS direction
   - **Global Health:** Gillings School collaboration available
 
-**Description:** UNC's EMS fellowship includes exposure to wilderness, USAR, TEMS, global and pediatric medicine with faculty who are leaders in these niches. The Gillings School of Global Public Health nearby offers collaboration potential. Located in the Research Triangle — one of the most vibrant academic medical corridors in the Southeast. Military/aviation-adjacent exposure can add useful operational training.
+**Overview:** UNC's EMS fellowship includes exposure to wilderness, USAR, TEMS, global health, and pediatric EMS, with faculty who are leaders in these niches. Located in the Research Triangle—one of the most vibrant academic medical corridors in the Southeast. The program accepts 2 fellows per year.
+
+**Strengths:**
+- Dr. Grover is a national leader in EMS quality improvement, serving as Course Director for the NAEMSP EMS Fellow Quality and Safety Course
+- Dual EMS system medical direction: Orange County (urban/rural mix) and Wake County/Raleigh (urban/suburban)
+- Carolina AirCare: busy ground and aeromedical transport (rotor and fixed wing)
+- TEMS via NC State Highway Patrol medical direction
+- Wilderness EMS through NC State Parks System
+- Gillings School of Global Public Health collaboration potential
+- 2 positions per year
+
+**Weaknesses:**
+- Research Triangle is academically rich but not a Southwest/outdoor lifestyle
+- Chapel Hill is a small college town; limited urban EMS complexity
+- Moderate-to-hot, humid climate
+
+**What Makes It Unique:** The breadth of faculty niches (wilderness, USAR, TEMS, MIH, state EMS direction) and the quality improvement focus under Dr. Grover's national leadership make UNC distinctive. The dual-system medical direction provides exposure to both rural and urban EMS environments in a single fellowship.
 
 **Highlights:** Wilderness, USAR, TEMS, Global Medicine, Pediatric EMS, Simulation
 
 **Links:** [↗ Fellowship Page](https://www.med.unc.edu/emergmed/education/fellowships/ems/)
 
-#### 21 — Military EMS & Disaster Medicine Fellowship (TX) — San Antonio, TX
-- **Meta:** ⚠ Verify Eligibility
+#### 11 — Emory University — Atlanta, GA
+- **Meta:** 2 positions/yr
+- **Average Fit Score:** 3.92/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 5/5 | Lifestyle: 3.5/5 | Economic: 3/5
 - **Details:**
-  - **Location:** San Antonio, TX (Brooke Army Medical Center area)
-  - **⚠ Eligibility:** May require active-duty military status — verify directly
-  - **Specialty:** Military EMS + Disaster Medicine
-  - **Unique Exposures:** TCCC, TEMS, operational medicine, MASCAL
+  - **Program Director:** Alexander Isakov, MD, MPH
+  - **Location:** Atlanta, GA
+  - **Positions / Year:** 2
+  - **Disaster Medicine:** CDC adjacency; WHO GOARN; global health networks
+  - **EMS System:** Grady EMS — one of the highest-acuity urban EMS environments
 
-**Description:** This program is associated with the military medical community in San Antonio — one of the most significant military medical hubs in the country. May require active-duty military status or specific service commitments. If eligible, this represents extraordinary exposure to TCCC, TEMS, disaster medicine, and operational medicine at the highest level. Verify eligibility directly before applying.
+**Overview:** Dr. Alexander Isakov directs two spots at Emory in Atlanta. Emory's structural strength is virtually unmatched in the realm of infectious disease — its profound connection to the CDC offers unparalleled disaster medicine and bio-containment training. Atlanta's Grady EMS system is one of the country's most high-acuity urban EMS environments.
 
-**Highlights:** TCCC / Combat, TEMS, Disaster Medicine, Operational Medicine
+**Strengths:**
+- Profound CDC connection offers unparalleled disaster medicine and bio-containment training
+- Grady EMS is one of the highest-acuity urban EMS environments nationally
+- WHO GOARN membership and major global health network access
+- 2 positions per year
+- Alexander Isakov is a nationally recognized disaster medicine leader
 
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+**Weaknesses:**
+- Atlanta's intense big-city grind with notorious traffic gridlock
+- Immense urban sprawl
+- High cost of living for a Southern city
+- Heat and humidity during summer months
 
-#### 22 — Regions Hospital (MN) — St. Paul, MN
-- **Meta:** 1 position · ACGME
+**What Makes It Unique:** The CDC adjacency and bio-containment training capability is virtually unmatched anywhere in the country, making this the premier program for disaster medicine and infectious disease preparedness.
+
+**Highlights:** Disaster Medicine, Global Health, CDC Proximity, Bio-containment, Grady EMS
+
+**Links:** [↗ Fellowship Page](https://pdm.emory.edu/)
+
+### Tier 2 — Strong Fit — Good Confidence (#12 – #22) (11)
+
+#### 12 — Carolinas Medical Center — Charlotte, NC
+- **Meta:** 2 positions/yr · ACGME · Carolinas MedCenter Air
+- **Average Fit Score:** 3.83/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 4/5 | Austere/Disaster: 3/5 | Lifestyle: 4/5 | Economic: 4/5
 - **Details:**
-  - **Program Director:** Aaron Burnett, MD
-  - **Location:** St. Paul, MN
-  - **Positions / Year:** 1
-  - **Hospital:** Regions Hospital — Level I Trauma Center
-  - **Strengths:** QI/research, strong faculty, leadership output
+  - **Location:** Charlotte, NC
+  - **Hospital:** Atrium Health CMC — Level I Trauma
+  - **HEMS:** Carolinas MedCenter Air
+  - **Lifestyle:** Growing metro, SE culture, mountains nearby
   - **Accreditation:** ACGME | NRMP Match
 
-**Description:** A highly regarded academic EMS fellowship based at Regions Hospital — a Level I trauma center in the Twin Cities. Strong QI emphasis, research culture, and broad EMS system exposure across urban and suburban Ramsey County environments. Regions is known for fellowship alumni in national leadership positions.
+**Overview:** Atrium Health Carolinas Medical Center is a major academic Level I trauma center in a rapidly growing urban environment. Strong Mecklenburg EMS system and regional HEMS via Carolinas MedCenter Air round out the training. The program accepts 2 fellows per year.
 
-**Highlights:** QI / Research, Leadership Development, Level I Trauma, Urban/Suburban
+**Strengths:**
+- Charlotte's rapid growth creates a dynamic EMS environment with urban complexity
+- Level I trauma center with high-acuity prehospital volume
+- Carolinas MedCenter Air provides HEMS exposure
+- Appalachian mountain terrain accessible within 2 hours for wilderness medicine interest
+- Southeast culture with moderate cost of living
 
-**Links:** [↗ Fellowship Page](http://www.regionsem.org/fellowships/prehospital-medicine-ems-fellowship/)
+**Weaknesses:**
+- Lacks the military/tactical niche of San Antonio or the wilderness depth of Western programs
+- Charlotte's political and cultural environment is moderate-to-progressive
+- Less national research prominence compared to Cincinnati, UPMC, or Hopkins
 
-#### 23 — Harbor-UCLA Medical Center — Torrance, CA
-- **Meta:** 1 position · ACGME
+**What Makes It Unique:** The Charlotte region offers a blend of urban density and mountain access that is hard to find. The growing metro area means expanding EMS complexity and leadership opportunities.
+
+**Highlights:** HEMS Access, Level I Trauma, SE Lifestyle, Growing Metro
+
+**Links:** [↗ Atrium Health GME](https://atriumhealth.org/medical-professionals/graduate-medical-education) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+
+#### 13 — Vanderbilt University Medical Center — Nashville, TN
+- **Meta:** 1 position/yr · ACGME · Vanderbilt LifeFlight
+- **Average Fit Score:** 3.83/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 5/5 | Austere/Disaster: 2/5 | Lifestyle: 4/5 | Economic: 4/5
+- **Details:**
+  - **Program Director:** Jared McKinney, MD
+  - **Location:** Nashville, TN
+  - **Positions / Year:** 1
+  - **HEMS Partner:** Vanderbilt LifeFlight (premier aeromedical)
+  - **Fire EMS:** Nashville Fire Department medical direction
+  - **Event Medicine:** CMA Fest, NASCAR, Bridgestone Arena
+
+**Overview:** Vanderbilt offers exceptional HEMS access via Vanderbilt LifeFlight, one of the premier aeromedical services in the country. Nashville Fire Department medical direction, QI meetings, and protocol development provide rich systems-building experience. The program accepts 1 fellow per year.
+
+**Strengths:**
+- Vanderbilt LifeFlight: premier aeromedical service with opportunities to progress from observer to full crew member
+- Nashville Fire Department medical direction provides longitudinal systems-building experience with QI meetings and protocol development
+- Outstanding event medicine: CMA Fest, NASCAR Cup Series at Nashville Superspeedway, Music City Grand Prix, Bridgestone Arena, Iroquois Steeplechase
+- Nashville's vibrant culture, music scene, and moderate cost of living
+
+**Weaknesses:**
+- Only 1 position per year limits acceptance probability
+- Less wilderness/austere medicine emphasis compared to Western programs
+- Southeast humidity may be a consideration for those preferring dry climates
+
+**What Makes It Unique:** The event medicine portfolio is among the broadest in the country—from NASCAR to CMA Fest to NHL games. The combination of LifeFlight aeromedical experience and Nashville Fire Department medical direction creates a well-rounded fellowship.
+
+**Highlights:** HEMS / LifeFlight, Protocol Development, Event Medicine, QI / Research, SE Lifestyle
+
+**Links:** [↗ Fellowship Page](https://emergencymedicine.vumc.org/fellowships/ems) · [↗ Vanderbilt EMS](https://www.vanderbiltem.com/ems1)
+
+#### 14 — University of Utah — Salt Lake City, UT
+- **Meta:** 2 positions/yr · ACGME
+- **Average Fit Score:** 3.83/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 5/5 | Lifestyle: 4/5 | Economic: 3/5
+- **Details:**
+  - **Program Director:** Jason R. Pickett, MD (formerly UT-Austin)
+  - **Location:** Salt Lake City, UT
+  - **Trauma Level:** Level I — regional center for 4 states
+  - **Lifestyle:** World's greatest snow; 5 ski resorts within 30 min
+  - **Wilderness Access:** Wasatch Range, Canyonlands, multiple national parks
+
+**Overview:** Salt Lake City's unique position as a major urban center surrounded by world-class wilderness makes this fellowship exceptional for austere, mountain, and wilderness EMS exposure. University Hospital is a Level I trauma center serving Utah, Nevada, Idaho, and Wyoming. The program accepts 2 fellows per year.
+
+**Strengths:**
+- World-class outdoor access: 5 ski resorts within 30 minutes, Wasatch Range, Canyonlands, multiple national parks
+- Level I trauma center serving 4-state region
+- New PD Jason Pickett brings tactical and military medicine expertise
+- Mountain rescue, ski patrol medicine, and wilderness EMS exposure
+- 2 positions per year
+
+**Weaknesses:**
+- Salt Lake City's cultural environment (strong LDS influence) may not suit everyone
+- Cold, snowy winters (a pro for ski enthusiasts but not warm-weather seekers)
+- Moderate cost of living but rising rapidly
+
+**What Makes It Unique:** The wilderness-to-urban ratio is nearly unmatched. Few cities in America offer Level I trauma center training with world-class ski resorts, canyoneering, and national parks within an hour's drive.
+
+**Highlights:** Mountain / Wilderness, TEMS, Military Background PD, Outdoor Lifestyle, Regional Trauma Hub
+
+**Links:** [↗ Fellowship Page](https://medicine.utah.edu/emergency-medicine/fellowships/ems)
+
+#### 15 — Harbor-UCLA Medical Center — Torrance, CA
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.83/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 5/5 | Lifestyle: 5/5 | Economic: 1/5
 - **Details:**
   - **Program Director:** Nichole Bosson, MD, MPH
   - **Location:** Torrance, CA (LA County)
@@ -363,14 +469,526 @@ Note: Ranks 1–25 are highest-confidence matches based on your stated preferenc
   - **EMS System:** LA County EMS — 10M population
   - **Research:** Resuscitation science, cardiac arrest
 
-**Description:** Harbor-UCLA combines EMS and Disaster Medicine in its fellowship at this storied county Level II trauma center in LA County. Nichole Bosson is a respected researcher in resuscitation science. The LA County EMS system serves 10M people — one of the most complex medical oversight environments in the world.
+**Overview:** Harbor-UCLA combines EMS and Disaster Medicine in its fellowship within the LA County EMS system, which serves 10 million people—one of the most complex medical oversight environments in the world. The program accepts 1 fellow per year with an option for a 2-year fellowship with an advanced degree.
+
+**Strengths:**
+- LA County EMS Agency oversight of 10M+ population — unparalleled system complexity
+- Combined EMS + Disaster Medicine fellowship
+- Option for 2-year track with advanced degree (MPH)
+- Dr. Bosson is a leading researcher in resuscitation science and regional systems of care
+- USAR deployment experience: Dr. Bosson deployed to Nepal, Mexico City, and Turkey earthquakes with CA-TF2/USA2
+- Collaboration with LA County Fire Department
+- Southern California warm-weather lifestyle
+
+**Weaknesses:**
+- Only 1 position per year
+- Torrance is suburban; less central than USC/LAFD for urban excitement
+- LA County cost of living is very high
+
+**What Makes It Unique:** The LA County EMS Agency medical director position of Dr. Bosson provides fellows with unique county-level system oversight exposure. The USAR deployments and disaster medicine focus are nationally distinctive.
 
 **Highlights:** EMS + DM Combo, LA County Scale, Resuscitation Research, Disaster Medicine
 
 **Links:** [↗ Fellowship Page](https://emedharbor.edu/education/fellowships/ems-disaster/)
 
-#### 24 — Stanford University — Stanford, CA
-- **Meta:** 1 position · ACGME
+#### 16 — ECU Health - East Carolina University — Greenville, NC
+- **Meta:** 2 positions/yr · ACGME
+- **Average Fit Score:** 3.75/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 4/5 | Lifestyle: 3.5/5 | Economic: 5/5
+- **Details:**
+  - **Program Director:** Roberto C. Portela, MD
+  - **Location:** Greenville, NC (Eastern NC)
+  - **Positions / Year:** 2
+  - **Coverage:** Regional referral for 29 counties
+  - **Specialty:** Rural, austere, and coastal plain EMS operations
+
+**Overview:** Dr. Roberto C. Portela leads two spots at ECU in Greenville, North Carolina. The program offers unmatched exposure to rural, austere, and coastal plain EMS operations. ECU Health serves as the regional referral center for a 29-county area with significant rural medicine challenges including long transport times and high-acuity trauma.
+
+**Strengths:**
+- Unmatched exposure to rural, austere, and coastal plain EMS operations
+- Regional referral center for 29 counties — enormous geographic scope
+- Long transport time management builds critical decision-making skills
+- 2 positions per year
+- Extremely affordable cost of living
+
+**Weaknesses:**
+- Greenville is geographically isolated from major metro areas
+- Limited access to high-quality beaches or high-elevation mountains
+- Predominantly warm but not a premier outdoor recreation destination
+- Smaller city with fewer amenities than urban programs
+
+**What Makes It Unique:** The 29-county rural referral area with its medically underserved population and long transport times creates a uniquely challenging austere medicine training environment on the East Coast.
+
+**Highlights:** Rural EMS, Coastal Plain Operations, Underserved Communities, Long Transport Times
+
+**Links:** [↗ ECU Health](https://ecuhealth.org/) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+
+#### 17 — UT Austin Dell Med / Austin-Travis County EMS — Austin, TX
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.67/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 2/5 | Austere/Disaster: 3/5 | Lifestyle: 5/5 | Economic: 3/5
+- **Details:**
+  - **Program Director:** Mark E. Escott, MD, MPH, FACEP, FAEMS, NRP
+  - **Location:** Austin, TX
+  - **EMS System:** Austin-Travis County EMS (Third-Service)
+  - **Accreditation:** ACGME | NRMP Match
+  - **Strengths:** Data-driven QI, TEMS, progressive protocols
+  - **Location Lifestyle:** Tech hub, outdoor culture, vibrant city
+
+**Overview:** One of the most innovative EMS programs in the country, embedded in Austin-Travis County EMS—a nationally recognized third-service system with strong data, QI infrastructure, and progressive clinical protocols. The program accepts 1 fellow per year.
+
+**Strengths:**
+- Austin-Travis County EMS is a model third-service system known nationally for data-driven protocols
+- Strong TEMS/tactical medicine component
+- Austin's tech hub culture creates opportunities for health tech and data-driven EMS innovation
+- Vibrant outdoor culture, warm climate, and progressive city environment
+- Dr. Escott is a nationally recognized figure in EMS leadership
+
+**Weaknesses:**
+- Only 1 position per year
+- Newer program (Dell Med opened 2016), still building its fellowship reputation
+- Austin cost of living has risen dramatically
+- Less HEMS/CCT emphasis compared to programs with dedicated aeromedical partners
+
+**What Makes It Unique:** The data-driven, QI-focused culture of Austin-Travis County EMS is ideal for a tech/data-inclined physician. The third-service model provides a different perspective than fire-based EMS systems.
+
+**Highlights:** TEMS / Tactical, Data & QI, Third-Service Model, SW Lifestyle, Protocol Innovation
+
+**Links:** [↗ Dell Med GME](https://dellmed.utexas.edu/education/graduate-medical-education/fellowships) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+
+#### 18 — University of California, San Diego — San Diego, CA
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.67/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 4/5 | Lifestyle: 5/5 | Economic: 2/5
+- **Details:**
+  - **Program Director:** Erin Noste, MD
+  - **Location:** San Diego, CA
+  - **Positions / Year:** 1
+  - **Research:** Strong NIH-funded EM research environment
+  - **Unique Exposures:** Border medicine, maritime, MCI
+  - **Lifestyle:** Coastal SoCal — beaches, mountains, desert
+
+**Overview:** A premier West Coast EMS fellowship combined with Disaster Medicine. Strong ties to SDFD and diverse prehospital systems across urban, suburban, and coastal environments. The program accepts 1 fellow per year.
+
+**Strengths:**
+- Combined EMS and Disaster Medicine fellowship
+- Strong NIH-funded EM research environment
+- Southern California coastal lifestyle: beaches, mountains, desert within easy reach
+- Border medicine, maritime EMS, and MCI exposure
+- Year-round warm weather
+
+**Weaknesses:**
+- Only 1 position per year
+- San Diego cost of living is very high
+- Less HEMS exposure compared to programs with dedicated aeromedical partners
+- Smaller city EMS system compared to LA or Houston
+
+**What Makes It Unique:** The combined EMS/Disaster Medicine track and border/maritime medicine exposures make UCSD particularly interesting for those drawn to disaster and austere environments. The lifestyle alignment with warm weather and outdoor access is among the best in the country.
+
+**Highlights:** Disaster Medicine, Border Medicine, Research-Rich, SW Lifestyle, MCI Exposure
+
+**Links:** [↗ Fellowship Page](https://medschool.ucsd.edu/som/emergency-med/education/fellowships/ems/Pages/default.aspx)
+
+#### 19 — Charleston Area Medical Center (WV) — Charleston, WV
+- **Meta:** 2 positions/yr
+- **Average Fit Score:** 3.67/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 4/5 | Lifestyle: 3/5 | Economic: 5/5
+- **Details:**
+  - **Program Director:** Collin Smith, DO
+  - **Location:** Charleston, WV
+  - **Positions / Year:** 2
+  - **Terrain:** Appalachian rural; New River Gorge access
+  - **Challenges:** Prolonged transport times, rugged terrain, opioid crisis
+
+**Overview:** Under the direction of Dr. Collin Smith, this two-spot program in West Virginia exposes fellows to incredibly challenging rural and Appalachian EMS dynamics. Fellows must navigate prolonged transport times, rugged terrain, and high-acuity trauma with limited immediate resources. The New River Gorge nearby offers world-class rafting and climbing.
+
+**Strengths:**
+- Incredibly challenging rural and Appalachian EMS dynamics
+- Prolonged transport time management with limited resources
+- New River Gorge nearby — world-class rafting and climbing
+- 2 positions per year
+- Extremely affordable cost of living
+
+**Weaknesses:**
+- Long, gray, depressing winters violate sunshine preference
+- West Virginia has significant socioeconomic challenges
+- Charleston is a smaller city with limited urban amenities
+- Appalachian isolation from major metro areas
+
+**What Makes It Unique:** The Appalachian terrain forces fellows to navigate prolonged transport times, rugged terrain, and high-acuity trauma with limited resources — a truly austere medicine training experience complemented by world-class outdoor recreation at the New River Gorge.
+
+**Highlights:** Appalachian Rural, New River Gorge, Opioid Crisis EMS, Mountain Terrain, Rugged Transport
+
+**Links:** [↗ Fellowship Page](https://www.camcmedicine.edu/departments/emergency-medicine/emergency-medical-services-fellowship)
+
+#### 20 — Loma Linda University School of Medicine — Loma Linda, CA
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.58/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 3/5 | Austere/Disaster: 3/5 | Lifestyle: 4.5/5 | Economic: 4/5
+- **Details:**
+  - **Program Director:** P. Brian Savino, MD, MPH, FACEP
+  - **Location:** Loma Linda, CA (Inland Empire)
+  - **Positions / Year:** 1
+  - **Pediatric Integration:** Loma Linda University Children's Hospital
+  - **Geography:** San Bernardino Mountains, Mojave Desert, SoCal coast
+
+**Overview:** Directed by Dr. P. Brian Savino, this prestigious one-spot program operates out of the Inland Empire. The unique structural aspect of Loma Linda lies in its robust pediatric integration, given the presence of its renowned Children's Hospital. Fellows gain unparalleled exposure to pediatric prehospital transport, neonatal critical care retrieval, and specialized disaster preparedness — a rare commodity in adult-dominated EMS fellowships.
+
+**Strengths:**
+- Robust pediatric integration via renowned Loma Linda University Children's Hospital
+- Unparalleled exposure to pediatric prehospital transport and neonatal critical care retrieval
+- Rapid bidirectional access to San Bernardino mountains and Southern California coast
+- Over 300 days of sunshine annually
+- Specialized disaster preparedness training
+
+**Weaknesses:**
+- Only 1 position per year
+- Inland Empire suffers from regional smog and urban sprawl
+- Less direct coastal access than LA-based programs
+
+**What Makes It Unique:** The pediatric prehospital transport and neonatal critical care retrieval exposure through Loma Linda Children's Hospital is a rare commodity that most adult-dominated EMS fellowships cannot offer.
+
+**Highlights:** SoCal EMS, Desert/Mountain Access, Pediatric Transport, Neonatal Retrieval
+
+**Links:** [↗ Fellowship Page](http://www.lluems.org/)
+
+#### 21 — University of Florida — Gainesville, FL
+- **Meta:** 2 positions/yr
+- **Average Fit Score:** 3.58/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 3/5 | Austere/Disaster: 3/5 | Lifestyle: 4.5/5 | Economic: 5/5
+- **Details:**
+  - **Program Director:** Jason M. Jones, MD
+  - **Location:** Gainesville, FL
+  - **Positions / Year:** 2
+  - **Mass Gathering:** SEC/NCAA football game oversight
+  - **Aeromedical:** Rural aeromedical response coordination
+
+**Overview:** Directed by Dr. Jason M. Jones, this two-spot program situated in Gainesville provides a distinct blend of rural, suburban, and collegiate EMS oversight. A core strength is the integration with collegiate mass-gathering events, particularly high-capacity NCAA football games, alongside extensive rural aeromedical response coordination.
+
+**Strengths:**
+- Integration with high-capacity SEC/NCAA football game mass-gathering medicine
+- Extensive rural aeromedical response coordination
+- Highly affordable, outdoor-friendly North Central Florida lifestyle
+- Immediate access to freshwater springs, state parks, and forested hiking
+- 2 positions per year
+
+**Weaknesses:**
+- Gainesville is a smaller college town — limited urban exposure
+- Summer heat and humidity can be intense
+- Less coastal access than Tampa or South Florida programs
+- Smaller EMS system compared to major metro programs
+
+**What Makes It Unique:** The combination of SEC-level mass gathering medicine, rural aeromedical oversight, and an affordable outdoor lifestyle rich with springs and state parks makes this an exceptional lifestyle-aligned program.
+
+**Highlights:** SEC Mass Gathering, Rural Aeromedical, Freshwater Springs, Affordable Outdoor Living
+
+**Links:** [↗ Fellowship Page](https://emergency.med.ufl.edu/education/fellowship-programs/ems-fellowship/)
+
+#### 22 — Virginia Tech - Carilion EMS Fellowship — Roanoke, VA
+- **Meta:** 2 positions/yr · ACGME
+- **Average Fit Score:** 3.58/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 4/5 | Lifestyle: 3.5/5 | Economic: 4/5
+- **Details:**
+  - **Program Director:** Haley Rose-Inman
+  - **Location:** Roanoke, VA (Blue Ridge Mountains)
+  - **Positions / Year:** 2
+  - **Unique Feature:** Elite wilderness and austere medicine in the Blue Ridge
+
+**Overview:** In the western part of Virginia, Virginia Tech-Carilion in Roanoke, under Dr. Haley Rose-Inman, provides elite wilderness and austere medicine exposure due to its location deep in the Blue Ridge Mountains. The program offers 2 spots with exceptional access to mountain rescue and rural EMS operations.
+
+**Strengths:**
+- Elite wilderness and austere medicine exposure in the Blue Ridge Mountains
+- Deep mountain location provides unique rescue training
+- 2 positions per year
+- Virginia's structured prehospital care approach
+- Affordable cost of living in Roanoke
+
+**Weaknesses:**
+- Roanoke is a smaller city with limited urban amenities
+- Cooler winters than Sunbelt programs
+- Some geographic isolation from major metro areas
+- Less academic prestige than UVA or VCU
+
+**What Makes It Unique:** The deep Blue Ridge Mountain location provides wilderness and austere medicine exposure that is among the best in the Mid-Atlantic region.
+
+**Highlights:** Wilderness Medicine, Blue Ridge Mountains, Austere Medicine, Rural EMS
+
+**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+
+### Tier 3 — Viable Fit — Worth Exploring (#23 – #33) (11)
+
+#### 23 — UCSF - EMS & Disaster Medicine — San Francisco, CA
+- **Meta:** 2 positions/yr · ACGME
+- **Average Fit Score:** 3.58/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 5/5 | Lifestyle: 3.5/5 | Economic: 1/5
+- **Details:**
+  - **Program Director:** Mary Mercer, MD, MPH, FAEMS
+  - **Location:** San Francisco, CA
+  - **Positions / Year:** 1-2
+  - **Contact:** dawnee.wong@ucsf.edu
+  - **Specialty:** EMS + Disaster Medicine combined track
+  - **Duration:** Flexible 1-year or 2-year curriculum
+
+**Overview:** Directed by Dr. Mary Mercer, this program offers 1 to 2 spots with the rare and highly desirable flexibility of a one- or two-year curriculum. A profound structural strength is its integration across two highly diverse, politically complex EMS systems — San Francisco and Alameda counties — teaching fellows how to navigate varying political bureaucracies, union dynamics, and operational landscapes simultaneously.
+
+**Strengths:**
+- Rare flexible one- or two-year curriculum
+- Integration across two politically complex EMS systems (SF and Alameda counties)
+- Combined EMS + Disaster Medicine fellowship at a world-class institution
+- UCSF Global Health Sciences access
+- Immediate Pacific Ocean and Marin headlands outdoor access
+
+**Weaknesses:**
+- Extreme cost of living forces difficult housing compromises
+- Grueling urban traffic increases daily friction
+- Cooler, fog-dominated San Francisco microclimate
+- Does not meet the Sunbelt standard for warm weather
+
+**What Makes It Unique:** The dual-county integration across San Francisco and Alameda teaches fellows to navigate varying political bureaucracies and union dynamics simultaneously — an invaluable skill for future medical directors.
+
+**Highlights:** EMS + DM Combo, Dual County Systems, Global Health, Top Research, Flexible Duration
+
+**Links:** [↗ Fellowship Page](https://emergency.ucsf.edu/ems-disaster-medicine)
+
+#### 24 — UT Southwestern — Dallas, TX
+- **Meta:** 2 positions/yr · ACGME
+- **Average Fit Score:** 3.50/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 2/5 | Lifestyle: 3/5 | Economic: 4/5
+- **Details:**
+  - **Program Director:** Kathy J. Rinnert, MD, MPH, FACEP
+  - **Location:** Dallas, TX
+  - **EMS Complexity:** Dallas/FW metro — 7.8M population, multi-agency
+  - **Research:** UTSW — 6 Nobel Laureates; exceptional research culture
+  - **Lifestyle:** Major SW metro; sports, culture, warm climate
+
+**Overview:** UTSW is one of the top academic medical centers in the U.S. with exceptional research infrastructure (6 Nobel Laureates). The Dallas/Fort Worth metro area of 7.8M people creates complex multi-agency EMS environments. The program accepts 2 fellows per year.
+
+**Strengths:**
+- World-class research culture with 6 Nobel Laureates and exceptional funded research
+- Enormous metro area creates multi-agency EMS complexity
+- Later application deadline (October 1) allows additional preparation time
+- Warm climate, major sports and cultural scene, affordable cost of living
+- 2 positions per year
+
+**Weaknesses:**
+- Dallas/Fort Worth terrain is flat with limited wilderness/outdoor recreation
+- Less military/tactical emphasis than San Antonio
+- Hot, humid summers
+
+**What Makes It Unique:** The October 1 application deadline is later than most programs, allowing more time to strengthen applications. The Nobel-caliber research environment is unmatched for those prioritizing academic EMS research.
+
+**Highlights:** Top Research Env., Large Complex Metro, SW Lifestyle, Multi-Agency EMS
+
+**Links:** [↗ UTSW Emergency Medicine](https://www.utsouthwestern.edu/departments/emergency-medicine/) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+
+#### 25 — UC Davis Medical Center — Sacramento, CA
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.50/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 3/5 | Austere/Disaster: 3/5 | Lifestyle: 4/5 | Economic: 4/5
+- **Details:**
+  - **Program Director:** John S. Rose, MD, FACEP, FAEMS
+  - **Location:** Sacramento, CA
+  - **Positions / Year:** 1
+  - **Nearby Wilderness:** Sierra Nevada, Lake Tahoe
+  - **Accreditation:** ACGME
+
+**Overview:** Located in Sacramento, the UC Davis fellowship provides a highly structured, single-fellow experience. A major operational strength is its deep integration with one of Northern California's premier Level I trauma centers and its immediate proximity to state-level legislative policy centers, allowing the fellow to engage directly with state EMS authorities and shape macro-level disaster protocols. Note: This program appears as a duplicate entry (Programs 26 & 36) in the NAEMSP directory.
+
+**Strengths:**
+- Deep integration with a premier Northern California Level I trauma center
+- Immediate proximity to state-level legislative policy centers in Sacramento
+- Access to Sierra Nevada mountains and Lake Tahoe for outdoor recreation
+- Mediterranean climate with abundant sunshine
+- Single-fellow model provides concentrated mentorship
+
+**Weaknesses:**
+- Only 1 position per year
+- Intense inland summer heat
+- Lacks immediate coastal beach access compared to Southern California peers
+- Duplicate NAEMSP listing may cause confusion
+
+**What Makes It Unique:** Sacramento's position as the state capital allows fellows to engage directly with California state EMS authorities, shaping macro-level disaster protocols — a rare policy-level exposure.
+
+**Highlights:** Academic Research, Rural/Urban, Sierra Nevada Access, Level I Trauma
+
+**Links:** [↗ Fellowship Page](https://emergency.ucdmc.ucdavis.edu/)
+
+#### 26 — Orlando Regional / Orange County EMS — Orlando, FL
+- **Meta:** 1 position/yr
+- **Average Fit Score:** 3.50/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 2/5 | Austere/Disaster: 4/5 | Lifestyle: 4/5 | Economic: 4/5
+- **Details:**
+  - **Program Director:** Christian Zuver, MD
+  - **Location:** Orlando, FL
+  - **Positions / Year:** 1
+  - **Unique Feature:** Florida's busiest L1 + 75M tourist MCI volume
+  - **Event Medicine:** Major international theme parks, convention centers
+
+**Overview:** Central Florida hosts a highly active EMS program. Orlando Regional, directed by Dr. Christian Zuver, is legendary in the prehospital community for its mass-gathering and event medicine opportunities. Given the proximity to major international theme parks, massive convention centers, and frequent severe weather events, the fellow receives master-class training in population-dense disaster management.
+
+**Strengths:**
+- Legendary mass-gathering and event medicine opportunities due to theme park proximity
+- Master-class training in population-dense disaster management
+- Year-round warm weather
+- Progressive third-service EMS system serving 1.5M+ residents
+
+**Weaknesses:**
+- Only 1 position per year
+- Landlocked within the state — no immediate coastal access
+- Intense summer humidity
+- Unrelenting tourist traffic impacts daily commuting
+
+**What Makes It Unique:** The proximity to major international theme parks and massive convention centers creates an unparalleled volume and diversity of mass-gathering medicine scenarios that cannot be replicated elsewhere.
+
+**Highlights:** MCI / Mass Gathering, Event Medicine, Third-Service, Theme Park Medicine
+
+**Links:** [↗ Fellowship Page](https://www.orlandohealth.com/emsfellowship)
+
+#### 27 — UC Davis Medical Center (Duplicate Entry) — Sacramento, CA
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.50/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 3/5 | Austere/Disaster: 3/5 | Lifestyle: 4/5 | Economic: 4/5
+- **Details:**
+  - **Program Director:** John S. Rose, MD, FACEP, FAEMS
+  - **Location:** Sacramento, CA
+  - **Positions / Year:** 1
+  - **Note:** Duplicate entry — see Program #26 for full details
+
+**Overview:** This is a duplicate NAEMSP directory listing for UC Davis Medical Center. Please refer to Program #26 for full program details, scores, and analysis. The program is directed by Dr. John S. Rose and offers 1 position per year.
+
+**Highlights:** Duplicate Entry, See Program #26
+
+**Links:** [↗ Fellowship Page](https://emergency.ucdmc.ucdavis.edu/)
+
+#### 28 — University of Tennessee - UTCOM Chattanooga — Chattanooga, TN
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.42/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 2/5 | Austere/Disaster: 3/5 | Lifestyle: 4.5/5 | Economic: 5/5
+- **Details:**
+  - **Program Director:** Frank Tift, MD
+  - **Location:** Chattanooga, TN
+  - **Positions / Year:** 1
+  - **Outdoor Access:** World-class rock climbing, mountain biking, whitewater
+  - **Setting:** Regional EMS without massive urban bureaucracy
+
+**Overview:** Directed by Dr. Frank Tift, this single-spot program is arguably the hidden gem of the dataset for the outdoor enthusiast. Chattanooga has radically transformed its civic infrastructure to become one of the premier outdoor cities in the Southeast, offering world-class rock climbing, mountain biking, and whitewater rafting mere minutes from the hospital.
+
+**Strengths:**
+- World-class outdoor recreation — rock climbing, mountain biking, whitewater rafting — minutes from the hospital
+- Excellent regional EMS exposure without massive urban center burnout
+- Highest lifestyle score in the non-coastal Southeast
+- Extremely affordable cost of living
+- Year-round warmth with Appalachian mountain access
+
+**Weaknesses:**
+- Only 1 position per year
+- Chattanooga is a smaller city with limited urban amenities
+- Less academic prestige and research output than major university programs
+- Smaller EMS system limits exposure to complex urban operations
+
+**What Makes It Unique:** Chattanooga's radical civic transformation into one of the Southeast's premier outdoor cities creates a uniquely sustainable training environment where world-class recreation is minutes from the hospital — the highest lifestyle score in the non-coastal Southeast.
+
+**Highlights:** Hidden Gem, Outdoor Paradise, Rock Climbing, Mountain Biking, Whitewater
+
+**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+
+#### 29 — University of Alabama at Birmingham — Birmingham, AL
+- **Meta:** 2 positions/yr
+- **Average Fit Score:** 3.42/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 3/5 | Austere/Disaster: 2/5 | Lifestyle: 3.5/5 | Economic: 5/5
+- **Details:**
+  - **Program Director:** Adam Robinett, MD, FACEP, FAAEM
+  - **Location:** Birmingham, AL
+  - **Positions / Year:** 2
+  - **Trauma:** Elite Level I trauma care
+  - **Role:** Deep-South regional EMS medical direction
+
+**Overview:** Dr. Adam Robinett oversees two spots at UAB in Birmingham, Alabama. The program provides elite Level I trauma care and deep-South regional EMS medical direction at Alabama's largest academic medical center. The predominantly warm climate offers some lifestyle alignment, but the program is capped at a moderate score due to geographic isolation from major beaches or mountains.
+
+**Strengths:**
+- Elite Level I trauma care at Alabama's largest academic medical center
+- Deep-South regional EMS medical direction
+- 2 positions per year
+- Predominantly warm climate
+- Very affordable cost of living
+
+**Weaknesses:**
+- Geographically isolated from major beaches or high-elevation mountains
+- Birmingham has limited outdoor recreation compared to coastal or mountain cities
+- Smaller national academic reputation than some peers
+- Summer heat and humidity
+
+**What Makes It Unique:** UAB's role as the deep South's regional medical direction hub provides broad EMS system oversight experience in a warm, affordable setting.
+
+**Highlights:** Level I Trauma, Deep South Regional, SE Lifestyle, Research University
+
+**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+
+#### 30 — Wake Forest Department of Emergency Medicine — Winston-Salem, NC
+- **Meta:** 2 positions/yr · ACGME
+- **Average Fit Score:** 3.33/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 3/5 | Austere/Disaster: 3/5 | Lifestyle: 3/5 | Economic: 4/5
+- **Details:**
+  - **Location:** Winston-Salem, NC
+  - **Hospital:** Atrium Health Wake Forest Baptist — Level I
+  - **Nearby Wilderness:** Blue Ridge Mountains — 1 hour
+
+**Overview:** Wake Forest Baptist's EMS fellowship benefits from a strong academic EM department known for research and clinical excellence. Forsyth County EMS and surrounding regional agencies provide diverse EMS exposure. The program accepts 2 fellows per year.
+
+**Strengths:**
+- Atrium Health Wake Forest Baptist — Level I trauma center
+- Blue Ridge Mountains within 1 hour for wilderness access
+- Strong academic research environment
+- Southeast lifestyle with moderate cost of living
+
+**Weaknesses:**
+- Winston-Salem is a smaller city with limited urban EMS complexity
+- Less national prominence compared to programs like Hopkins, UPMC, or UW
+- Limited HEMS/CCT details publicly available
+- No warm-weather/Southwest alignment
+
+**What Makes It Unique:** The proximity to the Blue Ridge Mountains creates a unique blend of academic training and Appalachian wilderness access.
+
+**Highlights:** Academic Research, SE Lifestyle, Mountains Nearby
+
+**Links:** [↗ Wake Forest EM](https://www.wakehealth.edu/emergency-medicine)
+
+#### 31 — USC / LAFD — Los Angeles, CA
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.33/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 2/5 | Austere/Disaster: 3/5 | Lifestyle: 5/5 | Economic: 1/5
+- **Details:**
+  - **Program Director:** Marc Eckstein, MD, MPH, FACEP, FAEMS
+  - **Location:** Los Angeles, CA
+  - **Positions / Year:** 1
+  - **EMS System:** LAFD — serves 4M+ residents
+  - **Unique Exposures:** MCI, earthquake prep, TEMS, urban operations
+  - **Academic Home:** Keck School of Medicine, USC
+
+**Overview:** Embedded with the Los Angeles Fire Department—one of the largest and most complex urban EMS systems in the world, serving 4 million people. The program accepts 1 fellow per year through the Keck School of Medicine at USC.
+
+**Strengths:**
+- LAFD serves 4M+ residents: unparalleled urban EMS scale and complexity
+- Mass casualty events, earthquake preparedness, TEMS, urban operations
+- Academic home at USC Keck School of Medicine — strong research support
+- Southern California lifestyle with year-round warm weather
+
+**Weaknesses:**
+- Only 1 position per year — extremely competitive
+- Los Angeles cost of living is among the highest in the nation
+- Less wilderness/austere exposure compared to programs in the Mountain West
+- Traffic and urban congestion challenges
+
+**What Makes It Unique:** The LAFD is one of the most operationally complex fire-based EMS systems in the world. For large-system urban EMS medical direction experience, few programs can compete.
+
+**Highlights:** Fire-Based EMS, Urban MCI, Disaster Preparedness, Multi-Agency, Large System
+
+**Links:** [↗ Keck EM Dept](https://www.keck.usc.edu/emergency-medicine)
+
+#### 32 — Stanford University — Stanford, CA
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.33/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 3/5 | Lifestyle: 4/5 | Economic: 1/5
 - **Details:**
   - **Program Director:** Marc Gautreau, MD, MBA
   - **Location:** Stanford, CA (Bay Area)
@@ -378,816 +996,368 @@ Note: Ranks 1–25 are highest-confidence matches based on your stated preferenc
   - **Innovation:** Design thinking, health tech, data science adjacency
   - **Research:** World-class academic resources
 
-**Description:** Stanford's EMS fellowship offers the unmatched resources of one of the world's top research institutions combined with Bay Area EMS complexity. Stanford's design thinking and innovation culture can enhance QI and systems-building work. Silicon Valley proximity offers unique opportunities in health tech and data-driven EMS improvement.
+**Overview:** Stanford's EMS fellowship is a comprehensive two-year program (Year 1 ACGME-accredited, Year 2 non-ACGME for advanced research/education). Stanford's design-thinking and innovation culture can enhance QI and systems-building work. The program accepts 1 fellow per year.
+
+**Strengths:**
+- Two-year program allows deeper research and specialization
+- Stanford's world-class academic resources and Silicon Valley tech adjacency
+- Design-thinking and innovation culture enhances QI approaches
+- Medical direction of San Jose Fire Department and agencies covering 2 counties, 9 cities, and 1 national park
+- Bay Area lifestyle (though expensive)
+
+**Weaknesses:**
+- Only 1 position per year — extremely competitive
+- Bay Area cost of living is among the highest in the world
+- Year 1 fellows do not work as faculty in Stanford ED; they moonlight in local EDs instead
+- Pacific NW/Bay Area climate is mild but not Southwest desert
+
+**What Makes It Unique:** The two-year structure is distinctive, with Year 2 allowing clinical instructor responsibilities in the Stanford ED and deeper research engagement. Dr. Gautreau's unique trajectory—firefighter to flight surgeon to MBA to Stanford professor—embodies the innovative spirit of the program.
 
 **Highlights:** Innovation / Tech, Elite Research, Data-Driven EMS, Bay Area
 
-**Links:** [↗ Fellowship Page](http://emed.stanford.edu/fellowships/ems.html)
+**Links:** [↗ Fellowship Page](https://emed.stanford.edu/fellowships/ems.html)
 
-#### 25 — FDNY / Northwell Health LIJ Medical Center — New York City, NY
-- **Meta:** ACGME
+#### 33 — FDNY / Northwell Health LIJ Medical Center — New York City, NY
+- **Meta:** 2 positions/yr · ACGME · Northwell EMS
+- **Average Fit Score:** 3.33/5
+- **Fit Scores:** System/QI: 5/5 | Ops/Autonomy: 4/5 | CCT/Aviation: 3/5 | Austere/Disaster: 4/5 | Lifestyle: 3/5 | Economic: 1/5
 - **Details:**
   - **Location:** New York City, NY
   - **EMS System:** FDNY EMS — 1.6M+ calls/year; 9M population
   - **Focus:** Large system medical direction, urban operations
 
-**Description:** The FDNY-Northwell partnership offers unparalleled exposure to the world's most complex and high-volume EMS system. FDNY EMS handles over 1.6 million calls annually across all 5 boroughs. For those interested in large-scale system operations, medical direction complexity, and urban disaster preparedness, no program matches this scale. Deep integration with fire-based EMS can be a strong match for your preference for firefighter/operational culture.
+**Overview:** The FDNY-Northwell partnership offers unparalleled exposure to the world's most complex and high-volume EMS system. FDNY EMS handles over 1.6 million calls annually across all 5 boroughs, serving a population of 9 million. The program was founded in 1992, is ACGME-accredited, and accepts 2 fellows per year.
 
-**Highlights:** Complex Operations, Progressive City Context, System Scale, Urban Disaster, World's Largest EMS
+**Strengths:**
+- FDNY EMS: 1.6M+ calls/year across 5 boroughs — the world's largest EMS system
+- Founded 1992; over 40 fellows graduated with deep alumni network
+- Large-scale system medical direction, urban disaster preparedness, MCI experience
+- Northwell Health Center for EMS: one of the largest hospital-based ambulance services in the U.S.
+- 2 positions per year
 
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+**Weaknesses:**
+- New York City cost of living is extremely high
+- No Southwest, outdoor, or warm-weather lifestyle alignment
+- Urban-only EMS focus; limited wilderness/austere exposure
+- Requires NY State medical license and DEA registration before starting
 
+**What Makes It Unique:** For large-system medical direction at a scale that exists nowhere else, FDNY/Northwell is unmatched. The 1.6 million annual calls across 5 boroughs create operational complexity that cannot be replicated.
 
-### Tier 2 — Strong Fit — Good Confidence (#26 – #50) (25)
-
-#### 26 — Washington University in St. Louis — St. Louis, MO
-- **Meta:** 3 positions
-- **Details:**
-  - **Program Director:** Bridgette Svancarek, MD, FAEMS
-  - **Location:** St. Louis, MO
-  - **Positions / Year:** 3
-  - **Board Pass Rate:** 100% (5-year) vs 78% national avg
-  - **EMRA:** MO's first physician-based licensed EMRA
-  - **QI:** CARES Registry contributor; protocol development
-
-**Description:** WashU EMS is Missouri's first physician-based licensed EMRA and boasts a 100% 5-year EMS board pass rate (vs 78% national). 3 positions/year with diverse prehospital agency types including fire, hospital-based, third-service, USAR, and tactical. Strong QI focus with CARES registry participation. Bridgette Svancarek is a nationally recognized EMS leader.
-
-**Highlights:** 100% Board Pass Rate, USAR / Tactical, QI / CARES, Protocol Development, 3 Positions
-
-**Links:** [↗ Fellowship Page](https://emergencymedicine.wustl.edu/education/fellowships/ems/)
-
-#### 27 — Loma Linda University School of Medicine — Loma Linda, CA
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** P. Brian Savino, MD, MPH, FACEP
-  - **Location:** Loma Linda, CA (Inland Empire)
-  - **Positions / Year:** 1
-
-**Description:** Loma Linda's EMS fellowship is based in the Inland Empire east of Los Angeles, with access to both urban SoCal EMS and nearby desert/mountain environments (San Bernardino Mountains, Mojave Desert). Loma Linda is an internationally recognized trauma and pediatric center. Military/aviation-adjacent exposure can add useful operational training.
-
-**Highlights:** SoCal EMS, Desert/Mountain Access, Pediatric Trauma
-
-**Links:** [↗ Fellowship Page](http://www.lluems.org/)
-
-#### 28 — Orlando Regional / Orange County EMS — Orlando, FL
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Christian Zuver, MD
-  - **Location:** Orlando, FL
-  - **Positions / Year:** 1
-  - **Unique Feature:** Florida's busiest L1 + 75M tourist MCI volume
-
-**Description:** ORMC is Florida's busiest Level I trauma center. Orange County EMS is a progressive third-service system serving 1.5M+ residents plus 75M annual tourists — creating extraordinarily high MCI and mass-gathering medicine volume. The Pulse nightclub response (2016) positioned this program as a leader in MCI learning. Military/aviation-adjacent exposure can add useful operational training.
-
-**Highlights:** MCI / Mass Gathering, High Acuity, Third-Service, SE Lifestyle
-
-**Links:** [↗ Fellowship Page](http://www.orlandohealth.com/emsfellowship)
-
-#### 29 — UCF / HCA EMS Fellowship — Orlando, FL
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Ayanna D. Walker, MD, FAEMS
-  - **Location:** Orlando, FL
-  - **Positions / Year:** 2
-
-**Description:** UCF's partnership with HCA Healthcare offers EMS fellowship training through one of the nation's largest hospital systems. Central Florida's unique mix of urban, suburban, and tourist-heavy environments creates diverse EMS exposure. 2 positions per year provides slightly more availability than many programs.
-
-**Highlights:** HCA System Access, SE Lifestyle, Tourism EMS
-
-**Links:** [↗ Fellowship Page](http://ucfemergencymedicineresidency.org/ems-fellowship/)
-
-#### 30 — Albany Medical Center — Albany, NY
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Michael W. Dailey, MD
-  - **Location:** Albany, NY (State Capital)
-  - **Positions / Year:** 2
-  - **Policy Access:** NYS EMS regulatory/policy engagement
-
-**Description:** Albany Med has historically led EMS practice changes at state and national levels. As New York State's capital, fellows gain exposure to state EMS policy and regulatory processes. Strong HEMS and CCT exposure, law enforcement tactical support, and rotor-wing operations. Military/aviation-adjacent exposure can add useful operational training.
-
-**Highlights:** State EMS Policy, HEMS / Rotor-Wing, Tactical EMS, CCT
-
-**Links:** [↗ Fellowship Page](https://www.amc.edu/academic/ems/index.cfm)
-
-#### 31 — OHSU — Oregon Health & Science University — Portland, OR
-- **Meta:** ACGME
-- **Details:**
-  - **Program Director:** Matthew Neth, MD
-  - **Location:** Portland, OR
-  - **Application:** Direct application; cover letter + CV to PD
-  - **Lifestyle:** PNW outdoor culture; mountains, coast, desert
-  - **Unique Geography:** Coast, Cascades, Columbia River Gorge
-
-**Description:** OHSU's EMS fellowship in Portland offers Pacific Northwest outdoor and wilderness access alongside urban operations. Oregon's diverse geography — coast, Cascades, high desert — creates broad prehospital environments. Portland Fire & Rescue, ODOT systems, and regional HEMS partners provide varied operational exposure. City politics skew very progressive; your day-to-day working relationships are still mostly with EMS operators.
-
-**Highlights:** Future Leaders, Geographic Diversity, PNW Outdoor, Progressive City Context, Wilderness
-
-**Links:** [↗ Fellowship Page](https://www.ohsu.edu/school-of-medicine/emergency/emergency-medical-services-ems-fellowship)
-
-#### 32 — Prisma Health / University of South Carolina — Columbia, SC
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Columbia, SC
-  - **EMS Coverage:** Urban + rural SC EMS systems
-  - **Lifestyle:** SE culture, affordable, outdoor access
-
-**Description:** Prisma Health EMS fellowship in Columbia provides access to South Carolina's diverse EMS landscape — from urban Richland County to rural Midlands. Strong Palmetto State EMS system collaboration and HEMS exposure through regional air medical services. Opportunities in tactical/special-operations-adjacent EMS may be available depending on local partnerships.
-
-**Highlights:** SE Lifestyle, Rural EMS, State EMS Direction
+**Highlights:** World's Largest EMS, Urban Disaster, System Scale, Complex Operations
 
 **Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
 
-#### 33 — Fellowship in EMS at Brown University — Providence, RI
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Providence, RI
-  - **Flexibility:** Highly customizable niche development
-  - **Faculty Niches:** Wilderness, USAR, TEMS, MIH, global, sim, research
-
-**Description:** Brown's EMS fellowship explicitly emphasizes global medicine, pediatrics, ultrasound, simulation, education, disaster, and research as faculty-supported niches. Based out of Boston EMS with academic support from Brown. Faculty with wilderness, USAR, TEMS, and State EMS medical direction expertise allow significant curriculum customization.
-
-**Highlights:** Global Medicine, Wilderness, USAR / TEMS, Customizable, Simulation
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+### Tier 4 — Lower Confidence Matches (#34 – #43) (10)
 
 #### 34 — Eastern Virginia Medical School — Norfolk, VA
 - **Meta:** ACGME
+- **Average Fit Score:** 3.25/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 3/5 | Austere/Disaster: 3/5 | Lifestyle: 3.5/5 | Economic: 4/5
 - **Details:**
+  - **Program Director:** Donald V. Byars, MD
   - **Location:** Norfolk, VA
   - **Unique Feature:** Coastal/maritime EMS; large military population
+  - **Military:** Heavy military, naval, and maritime EMS integration
 
-**Description:** ACGME-accredited EMS fellowship based in Norfolk, VA. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement. Military/aviation-adjacent exposure can add useful operational training.
+**Overview:** Located in Norfolk, Eastern Virginia Medical School offers a unique coastal lifestyle with heavy military, naval, and maritime EMS integration. Virginia is highly regarded for its structured approach to prehospital care, and the Norfolk location provides distinctive maritime and military-adjacent training opportunities.
 
-**Highlights:** Coastal EMS, Military Interface, Maritime Medicine
+**Strengths:**
+- Unique coastal lifestyle with maritime EMS exposure
+- Heavy military, naval integration — distinctive training opportunities
+- Virginia's structured approach to prehospital care
+- Coastal Mid-Atlantic location with moderate climate
+
+**Weaknesses:**
+- Position count not specified — may be limited
+- Colder winters than Sunbelt programs
+- Hampton Roads traffic can be challenging
+- Less academic prestige than some Virginia peers
+
+**What Makes It Unique:** The heavy military, naval, and maritime EMS integration in Norfolk creates a distinctive prehospital training environment that few other civilian programs can offer.
+
+**Highlights:** Coastal EMS, Military Interface, Maritime Medicine, Naval Integration
 
 **Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
 
-#### 35 — Emory University — Atlanta, GA
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Alexander Isakov, MD, MPH
-  - **Location:** Atlanta, GA
-  - **Positions / Year:** 2
-  - **Disaster Medicine:** CDC adjacency; global health networks
-
-**Description:** Emory's prehospital and disaster medicine fellowship has exceptional global health and disaster medicine depth — home to the CDC, WHO GOARN members, and major global health networks. Atlanta's Grady EMS system is one of the country's most high-acuity urban EMS environments. Alexander Isakov is a nationally recognized disaster medicine leader.
-
-**Highlights:** Disaster Medicine, Global Health, CDC Proximity, High-Acuity EMS
-
-**Links:** [↗ Fellowship Page](http://pdm.emory.edu/)
-
-#### 36 — UC Davis Medical Center — Sacramento, CA
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** John S. Rose, MD, FACEP, FAEMS
-  - **Location:** Sacramento, CA
-  - **Positions / Year:** 1
-  - **Nearby Wilderness:** Sierra Nevada, Lake Tahoe
-
-**Description:** UC Davis offers a strong academic EMS fellowship in Sacramento with diverse urban and rural Northern California EMS exposure. The UC Davis Health system is a Level I trauma center with significant research output. Access to the Sierra Nevada offers wilderness and austere medicine exposure within hours.
-
-**Highlights:** Academic Research, Rural/Urban, Sierra Nevada Access
-
-**Links:** [↗ Fellowship Page](http://emergency.ucdmc.ucdavis.edu/)
-
-#### 37 — University of Florida — Gainesville, FL
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Jason M. Jones, MD
-  - **Location:** Gainesville, FL
-  - **Positions / Year:** 2
-
-**Description:** UF's EMS fellowship in Gainesville offers strong academic EMS training with access to Shands Hospital (Level I trauma) and Alachua County EMS. Florida's unique EMS challenges — large elderly population, mass tourism, hurricanes, and heat emergencies — provide distinctive prehospital learning.
-
-**Highlights:** SE Lifestyle, Disaster Prep / Hurricanes, Level I Trauma
-
-**Links:** [↗ Fellowship Page](https://emergency.med.ufl.edu/education/fellowship-programs/ems-fellowship/)
-
-#### 38 — Arrowhead Regional Medical Center — Colton, CA
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Troy Pennington, DO
-  - **Location:** Colton, CA (San Bernardino County)
-  - **Positions / Year:** 2
-  - **Geography:** Nation's largest county — desert + mountain + urban
-
-**Description:** County hospital-based EMS fellowship in San Bernardino County — one of the geographically largest counties in the US, encompassing desert, mountain, and urban environments. 2 positions per year offers a slightly less competitive pathway into SoCal EMS medicine.
-
-**Highlights:** Geographic Diversity, Desert/Mountain, County System
-
-**Links:** [↗ Fellowship Page](http://armcems.com/)
-
-#### 39 — USF Emergency Medical Services Fellowship — Tampa, FL
-- **Meta:** 1 position
+#### 35 — USF Emergency Medical Services Fellowship — Tampa, FL
+- **Meta:** 1 position/yr
+- **Average Fit Score:** 3.25/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 2/5 | Austere/Disaster: 3/5 | Lifestyle: 4.5/5 | Economic: 4/5
 - **Details:**
   - **Program Director:** Rachel Semmons, MD
   - **Location:** Tampa, FL
   - **Positions / Year:** 1
+  - **Trauma:** High-acuity urban penetrating trauma volume
+  - **Lifestyle:** Year-round coastal living, Gulf beach access
 
-**Description:** USF's EMS fellowship in Tampa Bay offers exposure to Hillsborough County EMS and the broader Tampa-St. Pete metro area. Tampa General Hospital is a Level I trauma center. Florida's population density and tourism industry create unique EMS volume and complexity.
+**Overview:** Dr. Rachel Semmons leads the single-spot USF program in Tampa. The program benefits from the high-acuity urban penetrating trauma volume typical of Tampa, while offering elite coastal living, year-round boating, and immediate Gulf beach access.
 
-**Highlights:** SE Lifestyle, Tampa Metro EMS, Hurricane Prep
+**Strengths:**
+- High-acuity urban penetrating trauma volume
+- Elite coastal living with year-round Gulf beach access
+- Year-round boating and outdoor recreation
+- Tampa General Hospital Level I trauma center
+- Affordable cost of living for a coastal city
+
+**Weaknesses:**
+- Only 1 position per year
+- Summer heat and humidity can be extreme
+- Hurricane season poses personal logistics challenges
+- Less academic research output than some peers
+
+**What Makes It Unique:** The combination of high-acuity urban trauma training with an elite Gulf Coast coastal lifestyle makes USF a premier lifestyle-aligned program.
+
+**Highlights:** Gulf Coast Living, Urban Trauma, Hurricane Preparedness, Coastal Lifestyle
 
 **Links:** [↗ Fellowship Page](https://www.usfemergencymedicine.org/fellowships-index)
 
-#### 40 — FSU EMS Fellowship at Sarasota Memorial — Sarasota, FL
-- **Meta:** 2 positions
+#### 36 — UCF / HCA EMS Fellowship — Kissimmee, FL
+- **Meta:** 2 positions/yr
+- **Average Fit Score:** 3.17/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 2/5 | Austere/Disaster: 3/5 | Lifestyle: 4/5 | Economic: 4/5
 - **Details:**
-  - **Program Director:** Marshall A. Frank, DO, MPH, FAEMS
-  - **Location:** Sarasota, FL
+  - **Program Director:** Ayanna D. Walker, MD, FAEMS
+  - **Location:** Kissimmee, FL
   - **Positions / Year:** 2
+  - **Contact:** ucfems@gmail.com
+  - **Optional Tracks:** Medical Education or Simulation
 
-**Description:** Based at Sarasota Memorial — a leading Florida community medical center — this FSU-affiliated fellowship offers a distinctive blend of community-based EMS and academic training. Sarasota's affluent coastal demographics create unique EMS challenges alongside Gulf Coast geography.
+**Overview:** The UCF/HCA program in Kissimmee, directed by Dr. Ayanna D. Walker, offers two spots and features a unique optional track specifically dedicated to Medical Education or Simulation, differentiating it from most EMS fellowships that focus exclusively on clinical operations.
 
-**Highlights:** Community Model, Gulf Coast Access, SE Lifestyle
+**Strengths:**
+- Unique optional track in Medical Education or Simulation
+- 2 positions per year provides peer collaboration
+- Year-round warm weather in Central Florida
+- HCA Healthcare system provides broad hospital network access
 
-**Links:** [↗ Fellowship Page](https://med.fsu.edu/smh-emsfellowship/home)
+**Weaknesses:**
+- Landlocked within the state — limited coastal access
+- Intense summer humidity
+- Tourist traffic impacts daily life
+- HCA system may have different culture than academic medical centers
 
-#### 41 — Florida Atlantic University — Boca Raton, FL
-- **Meta:** 1–6 positions
+**What Makes It Unique:** The optional Medical Education or Simulation track is a distinctive offering that allows fellows to develop specialized skills beyond traditional EMS clinical operations.
+
+**Highlights:** HCA System Access, Medical Education Track, Simulation Track, Tourism EMS
+
+**Links:** [↗ Fellowship Page](https://ucfemergencymedicineresidency.org/ems-fellowship/)
+
+#### 37 — Prisma Health / University of South Carolina — Columbia, SC
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.17/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 2/5 | Austere/Disaster: 2/5 | Lifestyle: 4/5 | Economic: 5/5
 - **Details:**
-  - **Program Director:** Scott Alter, MD, MBA
-  - **Location:** Boca Raton, FL
-  - **Positions / Year:** Up to 6 — largest class in US
+  - **Program Director:** Spencer F. Robinson, Jr., DO
+  - **Location:** Columbia, SC
+  - **Positions / Year:** 1
+  - **Lifestyle:** Warm, affordable, Lake Murray access
 
-**Description:** FAU's EMS fellowship in South Florida offers access to one of the most densely populated EMS environments in the country. Palm Beach County EMS serves a large, diverse, and elderly population across urban, suburban, and coastal areas. Notably offers up to 6 positions — the largest class size of any EMS fellowship in the US.
+**Overview:** Located in Columbia, South Carolina, and directed by Dr. Spencer F. Robinson, Jr., this single-spot program offers excellent integration into a highly regionalized state EMS system. Columbia provides a warm, affordable lifestyle with immediate proximity to Lake Murray for boating and water sports.
 
-**Highlights:** Largest Program, South Florida, SE Lifestyle, High Volume EMS
+**Strengths:**
+- Excellent integration into a highly regionalized state EMS system
+- Warm, affordable lifestyle in Columbia
+- Immediate proximity to Lake Murray for outdoor recreation
+- Strong Palmetto State EMS system collaboration
 
-**Links:** [↗ Fellowship Page](https://www.fau.edu/medicine/gme/residency-fellowship/ems/)
+**Weaknesses:**
+- Only 1 position per year
+- Lacks immediate coastal access — Charleston is a manageable drive
+- Lower absolute clinical trauma volume compared to major urban centers
+- Limited HEMS/CCT emphasis
 
-#### 42 — ECU Health — East Carolina University — Greenville, NC
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Greenville, NC (Eastern NC)
-  - **Coverage:** Regional referral for 29 counties
-  - **Unique Strength:** Rural EMS, long-distance transport, underserved care
+**What Makes It Unique:** Columbia's affordability and warm climate combined with excellent state EMS system integration make this a strong lifestyle-aligned program in the Southeast.
 
-**Description:** East Carolina's EMS fellowship offers exceptional rural EMS exposure in eastern North Carolina — a medically underserved region with long transport times and high-acuity rural trauma. ECU Health serves as the regional referral center for a 29-county area with significant rural/austere medicine challenges.
-
-**Highlights:** Rural EMS, Underserved Communities, Regional Referral
-
-**Links:** [↗ ECU Health](https://ecuhealth.org/) · [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 43 — Stony Brook University EMS Fellowship — Stony Brook, NY
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Stony Brook, NY (Long Island)
-  - **EMS Systems:** Suffolk County EMS + regional agencies
-
-**Description:** ACGME-accredited EMS fellowship based in Stony Brook, NY. Focuses on austere / wilderness with hands-on experience in medical direction, protocol development, and quality improvement. Opportunities in tactical/special-operations-adjacent EMS may be available depending on local partnerships.
-
-**Highlights:** Long Island, Research University, Suburban/Rural
+**Highlights:** SE Lifestyle, Rural EMS, State EMS Direction, Affordable Living
 
 **Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
 
-#### 44 — SUNY Upstate Medical University — Syracuse, NY
-- **Meta:** ACGME
+#### 38 — University of Virginia EMS Fellowship — Charlottesville, VA
+- **Meta:** 1 position/yr · ACGME
+- **Average Fit Score:** 3.17/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 2/5 | Austere/Disaster: 3/5 | Lifestyle: 3/5 | Economic: 4/5
 - **Details:**
-  - **Location:** Syracuse, NY
-  - **Region:** Central NY — diverse urban + rural systems
-
-**Description:** ACGME-accredited EMS fellowship based in Syracuse, NY. Focuses on austere / wilderness with hands-on experience in medical direction, protocol development, and quality improvement. Opportunities in tactical/special-operations-adjacent EMS may be available depending on local partnerships.
-
-**Highlights:** Rural + Urban, Upstate NY
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 45 — University of Virginia EMS Fellowship — Charlottesville, VA
-- **Meta:** ACGME
-- **Details:**
+  - **Program Director:** Debra Perina, MD
   - **Location:** Charlottesville, VA
+  - **Positions / Year:** 1
   - **Hospital:** UVA Health — Level I Trauma Center
   - **Nearby:** Blue Ridge Mountains; Shenandoah Valley
 
-**Description:** ACGME-accredited EMS fellowship based in Charlottesville, VA. Focuses on austere / wilderness with hands-on experience in medical direction, protocol development, and quality improvement.
+**Overview:** The University of Virginia in Charlottesville, directed by Dr. Debra Perina, offers 1 spot with undeniable academic prestige. Virginia is highly regarded for its structured approach to prehospital care, and UVA's location in the Blue Ridge foothills provides mountain access alongside academic excellence.
 
-**Highlights:** Academic Research, Mountain Access, Level I Trauma
+**Strengths:**
+- Undeniable academic prestige
+- Virginia's highly structured prehospital care approach
+- Blue Ridge Mountains and Shenandoah Valley access
+- Level I trauma center at UVA Health
+- Charming college town environment
 
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+**Weaknesses:**
+- Only 1 position per year
+- Distinct shift toward colder, prolonged winters
+- Noticeable lack of year-round warmth
+- Charlottesville is relatively small and isolated
 
-#### 46 — Medical College of Wisconsin — Milwaukee, WI
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Milwaukee, WI
-  - **Hospital:** Froedtert Hospital — Level I Trauma
+**What Makes It Unique:** Dr. Debra Perina is a foundational figure in EMS medicine, and the program benefits from UVA's deep academic resources and Charlottesville's proximity to the Blue Ridge Mountains.
 
-**Description:** Medical College of Wisconsin's EMS fellowship in Milwaukee offers training within a strong academic medical system and diverse Milwaukee-area EMS environments. Froedtert Hospital is a Level I trauma center. MCW has robust EM research infrastructure and strong Great Lakes outdoor recreation access.
-
-**Highlights:** Level I Trauma, Research, Midwest Access
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 47 — Virginia Tech – Carilion EMS Fellowship — Roanoke, VA
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Roanoke, VA (Appalachian region)
-  - **Unique Feature:** Rural/Appalachian EMS; mountain rescue exposure
-
-**Description:** ACGME-accredited EMS fellowship based in Roanoke, VA. Focuses on austere / wilderness with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Rural EMS, Appalachian Region, Mountain Access
+**Highlights:** Academic Prestige, Mountain Access, Level I Trauma, Virginia EMS
 
 **Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
 
-#### 48 — Virginia Commonwealth University — Richmond, VA
-- **Meta:** ACGME
+#### 39 — Virginia Commonwealth University — Richmond, VA
+- **Meta:** 2 positions/yr · ACGME
+- **Average Fit Score:** 3.17/5
+- **Fit Scores:** System/QI: 4/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 3/5 | Austere/Disaster: 2/5 | Lifestyle: 3/5 | Economic: 4/5
 - **Details:**
+  - **Program Director:** Jeffrey Ferguson, MD
   - **Location:** Richmond, VA
+  - **Positions / Year:** 2
   - **Hospital:** VCU Medical Center — Level I Trauma
 
-**Description:** ACGME-accredited EMS fellowship based in Richmond, VA. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
+**Overview:** Virginia Commonwealth University in Richmond, directed by Dr. Jeffrey Ferguson, offers 2 spots with undeniable academic prestige. VCU Medical Center is a Level I trauma center providing high-acuity clinical exposure within Virginia's structured prehospital care system.
 
-**Highlights:** Level I Trauma, Urban EMS, Research
+**Strengths:**
+- VCU Medical Center Level I trauma center — high-acuity exposure
+- Strong academic prestige and research infrastructure
+- Virginia's structured prehospital care approach
+- 2 positions per year
+- Richmond offers moderate cost of living
 
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
+**Weaknesses:**
+- Distinct shift toward colder, prolonged winters
+- Noticeable lack of year-round warmth
+- Richmond lacks the outdoor recreation appeal of mountain or coastal locations
+- Urban setting without major wilderness access
 
-#### 49 — Indiana University — Out of Hospital Care Fellowship — Indianapolis, IN
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Mark Liao, MD, NRP
-  - **Location:** Indianapolis, IN
-  - **Positions / Year:** 2
-  - **Model:** EMS + MIH/Community Paramedicine focus
+**What Makes It Unique:** VCU's Level I trauma center combined with Virginia's well-structured EMS system provides a strong urban EMS training foundation with significant research potential.
 
-**Description:** IU's Out of Hospital Care Fellowship encompasses a broad curriculum including EMS, MIH, and community paramedicine — a forward-thinking model that aligns with evolving prehospital care delivery. Indianapolis has a large urban EMS system with diverse agency types and IU Health provides excellent academic infrastructure.
-
-**Highlights:** MIH / Community PM, Broad Curriculum, Forward-Thinking Model
-
-**Links:** [↗ Fellowship Page](https://medicine.iu.edu/departments/emergency-medicine/education-programs/fellowship/ems/)
-
-#### 50 — University of Tennessee — UTCOM EMS Fellowship — Memphis, TN
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Memphis, TN
-  - **System:** Memphis Fire/EMS; Mid-South regional
-
-**Description:** ACGME-accredited EMS fellowship based in UTCOM EMS Fellowship — Memphis, TN. Focuses on fire-based operations with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Memphis Metro, SE Lifestyle, High Acuity
+**Highlights:** Level I Trauma, Urban EMS, Research, Virginia EMS
 
 **Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
 
-
-### Tier 3 — Viable Fit — Limited Data / Niche (#51 – #70) (20)
-
-#### 51 — Penn State Hershey EMS Fellowship — Hershey, PA
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Hershey, PA
-  - **HEMS:** Life Lion helicopter program
-  - **USAR / Disaster:** FEMA task force; disaster curriculum
-  - **MIH:** Hospital-based community paramedicine (2017)
-
-**Description:** Penn State's program includes FEMA USAR, disaster medicine, community paramedicine, and ECMO/LVAD training. Life Lion helicopter provides HEMS exposure. Fellows provide medical coverage for Penn State football — 106,000 seat stadium, 2nd largest in the US. Historically strong MIH program was developed in 2017.
-
-**Highlights:** HEMS, USAR / Disaster, MIH / Comm. PM, ECMO/LVAD
-
-**Links:** [↗ Fellowship Page](https://med.psu.edu/residencies-fellowships/professional-programs/emergency-medical-services-fellowship)
-
-#### 52 — Medical College of Georgia at Augusta University — Augusta, GA
-- **Meta:** 1 position
+#### 40 — Medical College of Georgia at Augusta University — Augusta, GA
+- **Meta:** 1 position/yr
+- **Average Fit Score:** 3.17/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 2/5 | Austere/Disaster: 2/5 | Lifestyle: 4/5 | Economic: 5/5
 - **Details:**
   - **Program Director:** Bradley Michael Golden, DO
   - **Location:** Augusta, GA
   - **Positions / Year:** 1
+  - **Contact:** tburgbacher@augusta.edu
+  - **Lifestyle:** Affordable, river-adjacent, moderate outdoor access
 
-**Description:** ACGME-accredited EMS fellowship based in Augusta, GA. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement. Military/aviation-adjacent exposure can add useful operational training.
+**Overview:** Dr. Bradley Michael Golden oversees one spot at the Medical College of Georgia in Augusta. The program achieves a favorable lifestyle score due to its highly affordable, river-adjacent lifestyle with significantly milder traffic and excellent access to outdoor recreation.
 
-**Highlights:** SE Georgia, Military Proximity, Fort Gordon Area
+**Strengths:**
+- Highly affordable cost of living
+- River-adjacent lifestyle with good outdoor recreation access
+- Significantly milder traffic than Atlanta
+- Warm Southeastern climate
+- Military proximity (Fort Eisenhower)
+
+**Weaknesses:**
+- Only 1 position per year
+- Lower absolute clinical trauma volume than Grady Memorial in Atlanta
+- Augusta is a smaller city with limited urban amenities
+- Less academic prestige than Emory
+
+**What Makes It Unique:** Augusta's combination of affordability, warm climate, and river-adjacent outdoor access provides a lifestyle-friendly alternative to the Atlanta urban grind while maintaining solid clinical training.
+
+**Highlights:** SE Georgia, Affordable Living, River City, Fort Eisenhower Adjacent
 
 **Links:** [↗ Fellowship Page](https://www.augusta.edu/mcg/em/ed/fellowships/ems/index.php)
 
-#### 53 — Allegheny General Hospital — Pittsburgh, PA
-- **Meta:** ACGME
+#### 41 — FSU EMS Fellowship at Sarasota Memorial — Sarasota, FL
+- **Meta:** 2 positions/yr
+- **Average Fit Score:** 3.08/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 2/5 | Austere/Disaster: 2/5 | Lifestyle: 4.5/5 | Economic: 4/5
 - **Details:**
-  - **Location:** Pittsburgh, PA
-  - **System:** AHN — 100 EMS agencies in Western PA
-  - **Unique:** Medical command for nearly 100 regional agencies
-
-**Description:** ACGME-accredited EMS fellowship based in Pittsburgh, PA. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Large System Direction, Western PA, Regional Authority
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 54 — Cooper University Hospital — Camden, NJ
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Gerard G. Carroll, MD
-  - **Location:** Camden, NJ (Philadelphia metro)
+  - **Program Director:** Marshall A. Frank, DO, MPH, FAEMS
+  - **Location:** Sarasota, FL
   - **Positions / Year:** 2
+  - **Patient Base:** Affluent coastal, complex gerontological
+  - **Lifestyle:** Gulf Coast beach access, year-round warmth
 
-**Description:** ACGME-accredited EMS fellowship based in Camden, NJ. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
+**Overview:** Dr. Marshall A. Frank directs the two-spot FSU program at Sarasota Memorial. The program offers elite coastal living, year-round boating, and immediate Gulf beach access. The Sarasota location provides a slightly more affluent, but highly complex, gerontological patient base that offers unique clinical challenges.
 
-**Highlights:** High-Acuity Urban, Philly Metro, Level I Trauma
+**Strengths:**
+- Elite Gulf Coast coastal lifestyle with year-round beach access
+- Complex gerontological patient base provides unique clinical challenges
+- 2 positions per year
+- Affluent community with strong EMS system support
+- FSU academic affiliation provides research infrastructure
 
-**Links:** [↗ Fellowship Page](http://www.cooperhealth.edu/fellowships/emergency-medical-services)
+**Weaknesses:**
+- Community-based model may have less trauma volume than urban programs
+- Gerontological focus may limit exposure to younger patient populations
+- Sarasota is smaller than Tampa or Miami
+- Limited HEMS/CCT emphasis
 
-#### 55 — St. Luke's University Health Network — Bethlehem, PA
-- **Meta:** ACGME
+**What Makes It Unique:** The affluent coastal community with a complex gerontological patient base creates a distinctive clinical environment rarely found in other EMS fellowships, all set against an unbeatable Gulf Coast lifestyle.
+
+**Highlights:** Community Model, Gulf Coast Access, Gerontological EMS, Coastal Lifestyle
+
+**Links:** [↗ Fellowship Page](https://med.fsu.edu/smh-emsfellowship/home)
+
+#### 42 — Florida Atlantic University — Boca Raton, FL
+- **Meta:** 6 positions/yr
+- **Average Fit Score:** 3.08/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 2/5 | Austere/Disaster: 3/5 | Lifestyle: 4.5/5 | Economic: 3/5
 - **Details:**
-  - **Program Director:** Spencer F. Robinson Jr., DO, FACEP, FAEMS
-  - **Location:** Bethlehem, PA (Lehigh Valley)
-
-**Description:** ACGME-accredited EMS fellowship based in Bethlehem, PA. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Lehigh Valley, Community System
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 56 — Rutgers Health / Newark Beth Israel — Newark, NJ
-- **Meta:** 6 positions
-- **Details:**
-  - **Program Director:** Navin Ariyaprakai, MD, EMT-P, FAEMS, FACEP
-  - **Location:** Newark, NJ
-  - **Positions / Year:** 6 — one of largest programs nationally
-
-**Description:** ACGME-accredited EMS fellowship based in Newark, NJ. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** 6 Positions, NJ/NYC Metro, High Volume
-
-**Links:** [↗ Fellowship Page](http://www.emsfellowship.com/)
-
-#### 57 — Albert Einstein / Jefferson Einstein Hospital — Philadelphia, PA
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Philadelphia, PA
-  - **EMS System:** Philadelphia EMS + suburban agencies
-
-**Description:** ACGME-accredited EMS fellowship based in Philadelphia, PA. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Philly Metro EMS, Urban High-Acuity
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 58 — Morristown Medical Center / Atlantic Health System — Morristown, NJ
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** David C. Feldman, MD
-  - **Location:** Morristown, NJ
-  - **Positions / Year:** 2
-
-**Description:** ACGME-accredited EMS fellowship based in Morristown, NJ. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Suburban NJ, Multi-Hospital System, NYC Proximity
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 59 — University of Chicago EMS Fellowship — Chicago, IL
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Katie Tataris, MD, MPH, FAEMS, FACEP
-  - **Location:** Chicago, IL
-  - **Positions / Year:** 2
-  - **Unique Volume:** High GSW volume; complex urban trauma EMS
-
-**Description:** The University of Chicago's EMS fellowship is embedded in one of the country's most complex urban EMS environments — Chicago — with 2.7M residents and one of the nation's highest gunshot wound volumes. The Pritzker School of Medicine's research culture supports scholarly output. Chicago CFD and regional agencies provide diverse operational exposure.
-
-**Highlights:** High-Acuity Urban, Research, Complex System
-
-**Links:** [↗ Fellowship Page](https://em.uchicago.edu/fellowships/ems/)
-
-#### 60 — UCSF — EMS & Disaster Medicine — San Francisco, CA
-- **Meta:** 1–2 positions · ACGME
-- **Details:**
-  - **Program Director:** Mary Mercer, MD, MPH, FAEMS
-  - **Location:** San Francisco, CA
-  - **Positions / Year:** 1–2
-  - **Specialty:** EMS + Disaster Medicine combined track
-  - **Global Health:** UCSF Global Health Sciences access
-  - **Research:** World-class academic environment
-
-**Description:** Combines EMS and disaster medicine in a single fellowship at one of the world's top academic medical institutions. UCSF's global health infrastructure, international ties, and disaster medicine faculty make this uniquely aligned with both global and austere medicine interests. San Francisco offers urban complexity with Bay Area geography. City politics skew very progressive; your day-to-day working relationships are still mostly with EMS operators.
-
-**Highlights:** Disaster Medicine, EMS + DM Combo, Global Health, Progressive City Context, Top Research, Urban Complex
-
-**Links:** [↗ Fellowship Page](https://emergency.ucsf.edu/ems-disaster-medicine)
-
-#### 61 — University at Buffalo — Buffalo, NY
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Buffalo, NY
-  - **Unique:** Great Lakes region; cold weather EMS challenges
-
-**Description:** ACGME-accredited EMS fellowship based in Buffalo, NY. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Great Lakes, Cold Weather EMS, Urban System
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 62 — Maimonides Medical Center — Brooklyn, NY
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Brooklyn, NY (NYC)
-  - **Volume:** One of NY's busiest EDs; large prehospital volume
-
-**Description:** ACGME-accredited EMS fellowship based in Brooklyn, NY. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** NYC EMS, High Volume, Urban Complex
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 63 — Baystate Health / UMass Chan — Baystate — Springfield, MA
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Ken Knowles, MD
-  - **Location:** Springfield, MA (Western MA)
-  - **Positions / Year:** 1
-
-**Description:** ACGME-accredited EMS fellowship based in Baystate — Springfield, MA. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Prehospital Disaster, Western MA, Academic
-
-**Links:** [↗ Fellowship Page](https://www.prehospitaldisastermedicine.org/pageem)
-
-#### 64 — University of Massachusetts Medical School EMS — Worcester, MA
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Stacy Weisberg, MD, MPH, FAEMS
-  - **Location:** Worcester, MA
-  - **Positions / Year:** 1
-
-**Description:** ACGME-accredited EMS fellowship based in Worcester, MA. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Academic EMS, Central MA
-
-**Links:** [↗ Fellowship Page](https://www.umassmed.edu/emed/fellowship/emsfell/)
-
-#### 65 — Wayne State University / City of Detroit EMS — Detroit, MI
-- **Meta:** 3 positions
-- **Details:**
-  - **Program Director:** Robert B. Dunne, MD, FACEP, FAEMS
-  - **Location:** Detroit, MI
-  - **Positions / Year:** 3
-  - **EMS System:** City of Detroit EMS Division
-
-**Description:** ACGME-accredited EMS fellowship based in Detroit, MI. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Urban High-Acuity, 3 Positions, City EMS Division
-
-**Links:** [↗ Fellowship Page](http://em.med.wayne.edu/ems-fellowship)
-
-#### 66 — Boston University / Boston EMS — Boston, MA
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Kevin Ryan, MD, MBA
-  - **Location:** Boston, MA
-  - **EMS System:** Boston EMS — Third-service, urban
-  - **Positions / Year:** 1
-
-**Description:** Based in Boston EMS — a nationally respected urban third-service — with Boston Medical Center affiliation. Robust HEMS experience available. Excellent academic medical environment in a major research city. Opportunity to tailor fellowship to specific interests including global medicine, simulation, and disaster preparedness. City politics skew very progressive; your day-to-day working relationships are still mostly with EMS operators.
-
-**Highlights:** Customizable, HEMS Access, Progressive City Context, Research City, Third-Service Model
-
-**Links:** [↗ Fellowship Page](https://www.bumc.bu.edu/emergencymedicine/program-welcome/ems/)
-
-#### 67 — University of Michigan EMS Fellowship — Ann Arbor, MI
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Christine Brent, MD, FAEMS
-  - **Location:** Ann Arbor, MI
-  - **Positions / Year:** 2
-
-**Description:** ACGME-accredited EMS fellowship based in Ann Arbor, MI. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Top Research University, Ann Arbor
-
-**Links:** [↗ Fellowship Page](https://medicine.umich.edu/dept/emergency-medicine/education/fellowships/emergency-medical-services-ems-fellowship)
-
-#### 68 — Henry Ford Health — Detroit, MI
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Matthew Ball, MD, FAEMS
-  - **Location:** Detroit, MI
-  - **Positions / Year:** 1
-
-**Description:** ACGME-accredited EMS fellowship based in Detroit, MI. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Detroit Metro, Large Health System
-
-**Links:** [↗ Fellowship Page](https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/em/ems-fellowship)
-
-#### 69 — The Ohio State University — Columbus, OH
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Columbus, OH
-  - **Hospital:** OSU Wexner Medical Center — Level I
-
-**Description:** ACGME-accredited EMS fellowship based in Columbus, OH. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Big Ten Research, Columbus EMS, Level I Trauma
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 70 — Western Michigan University (Homer Stryker MD SOM) — Kalamazoo, MI
-- **Meta:** 3 positions
-- **Details:**
-  - **Program Director:** Joshua Mastenbrook, MD, FACEP, FAEMS
-  - **Location:** Kalamazoo, MI
-  - **Positions / Year:** 3
-
-**Description:** ACGME-accredited EMS fellowship based in Kalamazoo, MI. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** 3 Positions, Community System, Western MI
-
-**Links:** [↗ Fellowship Page](http://med.wmich.edu/node/136)
-
-
-### Tier 4 — Lower Fit — Mostly Directory Data (#71 – #85) (15)
-
-#### 71 — University Hospitals Cleveland Medical Center — Cleveland, OH
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Cleveland, OH
-  - **Affiliation:** Case Western Reserve University
-
-**Description:** ACGME-accredited EMS fellowship based in Cleveland, OH. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** CWRU Research, Cleveland EMS
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 72 — Central Michigan University EMS Fellowship — Saginaw, MI
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Noel Wagner, MD, NRP, FAEMS
-  - **Location:** Saginaw, MI
-  - **Positions / Year:** 2
-
-**Description:** ACGME-accredited EMS fellowship based in Saginaw, MI. Focuses on austere / wilderness with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Rural/Community EMS, Mid-Michigan
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 73 — MetroHealth — Cleveland, OH
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Cleveland, OH
-  - **Model:** County safety-net Level I trauma center
-
-**Description:** ACGME-accredited EMS fellowship based in Cleveland, OH. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Safety-Net, Level I Trauma, High Acuity
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 74 — Hennepin County Medical Center EMS — Minneapolis, MN
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Gregg Jones, MD
-  - **Location:** Minneapolis, MN
-  - **Positions / Year:** 1
-
-**Description:** ACGME-accredited EMS fellowship based in Minneapolis, MN. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Safety-Net Hospital, Twin Cities EMS, Research
-
-**Links:** [↗ Fellowship Page](https://www.hennepinhealthcare.org/medical-education-training/fellowship-programs/emergency-medical-services-fellowship/)
-
-#### 75 — OhioHealth Doctors Hospital — Columbus, OH
-- **Meta:** ACGME
-- **Details:**
-  - **Location:** Columbus, OH
-  - **System:** OhioHealth — large community health system
-
-**Description:** ACGME-accredited EMS fellowship based in Columbus, OH. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Community System, Columbus Metro
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 76 — Mayo Clinic College of Medicine, Rochester — Rochester, MN
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Matthew D. Sztajnkrycer, MD, PhD
-  - **Location:** Rochester, MN
-  - **Positions / Year:** 1
-
-**Description:** ACGME-accredited EMS fellowship based in Rochester, MN. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Mayo Prestige, Research Culture, Academic Excellence
-
-**Links:** [↗ Fellowship Page](https://college.mayo.edu/academics/residencies-and-fellowships/emergency-medical-services-fellowship-minnesota/)
-
-#### 77 — University of Alabama at Birmingham — Birmingham, AL
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Adam Robinett, MD, FACEP, FAAEM
-  - **Location:** Birmingham, AL
-  - **Positions / Year:** 2
-
-**Description:** ACGME-accredited EMS fellowship based in Birmingham, AL. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Level I Trauma, SE Lifestyle, Research University
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
-
-#### 78 — University of Louisville — Louisville, KY
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Timothy G. Price, MD
-  - **Location:** Louisville, KY
-  - **Positions / Year:** 1
-
-**Description:** ACGME-accredited EMS fellowship based in Louisville, KY. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Level I Trauma, SE/Midwest Border
-
-**Links:** [↗ Fellowship Page](http://louisville.edu/medicine/departments/emergencymedicine/ems-division)
-
-#### 79 — University of Iowa Hospitals and Clinics — Iowa City, IA
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Azeemuddin Ahmed, MD, MBA
-  - **Location:** Iowa City, IA
-  - **Positions / Year:** 1
-
-**Description:** ACGME-accredited EMS fellowship based in Iowa City, IA. Focuses on austere / wilderness with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Rural/Agricultural EMS, Academic Iowa
-
-**Links:** [↗ Fellowship Page](https://gme.medicine.uiowa.edu/emergency-medical-services-fellowship)
-
-#### 80 — Kansas University Medical Center EMS Fellowship — Kansas City, KS
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Bryan Beaver, MD
-  - **Location:** Kansas City, KS
-  - **Positions / Year:** 1
-
-**Description:** ACGME-accredited EMS fellowship based in Kansas City, KS. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** KC Metro EMS, Academic Research
-
-**Links:** [↗ Fellowship Page](https://www.kumc.edu/school-of-medicine/academics/departments/emergency-medicine/academics/fellowships/ems-fellowship.html)
-
-#### 81 — University of Nebraska Medical Center — Omaha, NE
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Abraham Campos, MD
-  - **Location:** Omaha, NE
-  - **Positions / Year:** 1
-
-**Description:** ACGME-accredited EMS fellowship based in Omaha, NE. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Omaha Metro, Level I Trauma
-
-**Links:** [↗ Fellowship Page](https://www.unmc.edu/emergency/fellowships/ems/index.html)
-
-#### 82 — University of Mississippi Medical Center EMS Fellowship — Jackson, MS
-- **Meta:** 1 position
+  - **Program Director:** Scott Alter, MD, MBA
+  - **Location:** Boca Raton, FL
+  - **Positions / Year:** 1-6 (variable, largest in US)
+  - **Population:** Large, diverse, elderly South Florida population
+
+**Overview:** Florida Atlantic University in Boca Raton, under Dr. Scott Alter, boasts a surprisingly large capacity, listing a variable 1 to 6 spots per year — the largest class size of any EMS fellowship in the United States. Palm Beach County EMS serves a large, diverse, and elderly population across urban, suburban, and coastal areas.
+
+**Strengths:**
+- Largest class size in the US — up to 6 positions per year creates extensive peer network
+- Unparalleled coastal, sun-drenched South Florida lifestyle
+- Dense, diverse population provides high EMS volume
+- Atlantic coast beach access year-round
+- Reduced individual call burden with larger cohort
+
+**Weaknesses:**
+- Variable large class size may dilute individual field command experiences
+- Large cohort may reduce direct mentorship opportunities
+- South Florida cost of living is higher than other Florida locations
+- Less academic prestige than some university programs
+
+**What Makes It Unique:** The variable 1-6 positions per year makes FAU structurally anomalous among EMS fellowships. While the large cohort creates a vast peer network, applicants should assess whether individual command-level field responses may be diluted.
+
+**Highlights:** Largest Program, South Florida, Atlantic Coast, High Volume EMS
+
+**Links:** [↗ Fellowship Page](https://www.fau.edu/medicine/gme/residency-fellowship/ems/)
+
+#### 43 — University of Mississippi Medical Center EMS Fellowship — Jackson, MS
+- **Meta:** 1 position/yr
+- **Average Fit Score:** 3.08/5
+- **Fit Scores:** System/QI: 3/5 | Ops/Autonomy: 3/5 | CCT/Aviation: 2/5 | Austere/Disaster: 2/5 | Lifestyle: 3.5/5 | Economic: 5/5
 - **Details:**
   - **Program Director:** John M. McCarter, MD
   - **Location:** Jackson, MS
   - **Positions / Year:** 1
+  - **Role:** Sole Level I trauma center for the entire state of Mississippi
 
-**Description:** ACGME-accredited EMS fellowship based in Jackson, MS. Focuses on austere / wilderness with hands-on experience in medical direction, protocol development, and quality improvement.
+**Overview:** Dr. John M. McCarter directs one spot at UMMC in Jackson, Mississippi. The program operates as the critical safety-net and sole Level I trauma center for the entire state of Mississippi, serving one of the most underserved populations in the country. The predominantly warm climate provides some lifestyle alignment.
 
-**Highlights:** Rural MS EMS, Underserved Care, SE Lifestyle
+**Strengths:**
+- Sole Level I trauma center for the entire state of Mississippi
+- Critical safety-net role serving one of the most underserved populations
+- Predominantly warm Southeastern climate
+- Extremely affordable cost of living
+- Unique exposure to health equity and resource-limited EMS
 
-**Links:** [↗ Fellowship Page](http://www.umc.edu/emergencymedicine)
+**Weaknesses:**
+- Only 1 position per year
+- Jackson has significant socioeconomic challenges
+- Geographically isolated from major beaches or mountains
+- Limited outdoor recreation compared to coastal or mountain cities
 
-#### 83 — Maine Medical Center — Portland, ME
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Michael Bohanske, MD, FACEP, FAEMS
-  - **Location:** Portland, ME
-  - **Positions / Year:** 1
-  - **Unique:** Rural/wilderness New England; maritime EMS
+**What Makes It Unique:** As the sole Level I trauma center for an entire state, UMMC provides an unparalleled perspective on safety-net medicine and EMS in a profoundly underserved environment.
 
-**Description:** ACGME-accredited EMS fellowship based in Portland, ME. Focuses on austere / wilderness with hands-on experience in medical direction, protocol development, and quality improvement.
+**Highlights:** State's Only Level I, Safety-Net, Underserved Care, SE Lifestyle
 
-**Highlights:** Rural / Wilderness, Maritime EMS, New England
+**Links:** [↗ Fellowship Page](https://www.umc.edu/emergencymedicine)
 
-**Links:** [↗ Fellowship Page](http://www.mmcems.org)
-
-#### 84 — Charleston Area Medical Center (WV) — Charleston, WV
-- **Meta:** 2 positions
-- **Details:**
-  - **Program Director:** Collin Smith, DO
-  - **Location:** Charleston, WV
-  - **Positions / Year:** 2
-  - **Unique:** Appalachian rural; high opioid crisis EMS exposure
-
-**Description:** ACGME-accredited EMS fellowship based in Charleston, WV. Focuses on austere / wilderness with hands-on experience in medical direction, protocol development, and quality improvement.
-
-**Highlights:** Appalachian Rural, Opioid Crisis EMS, Mountain Terrain
-
-**Links:** [↗ Fellowship Page](https://www.camcmedicine.edu/departments/emergency-medicine/emergency-medical-services-fellowship)
-
-#### 85 — Beth Israel Deaconess / Harvard Affiliated EMS Fellowship — Boston, MA
-- **Meta:** 1 position
-- **Details:**
-  - **Program Director:** Edward Ullman, MD
-  - **Location:** Boston, MA
-  - **Positions / Year:** 1
-  - **Affiliation:** Harvard Medical School affiliated
-
-**Description:** ACGME-accredited EMS fellowship based in Boston, MA. Focuses on EMS medical direction + QA/QI with hands-on experience in medical direction, protocol development, and quality improvement. City politics skew very progressive; your day-to-day working relationships are still mostly with EMS operators.
-
-**Highlights:** Academic Prestige, Boston EMS, Harvard Affiliated, Progressive City Context
-
-**Links:** [↗ NAEMSP Listing](https://naemsp.org/fellowship-programs/)
